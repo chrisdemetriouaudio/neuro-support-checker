@@ -9322,5 +9322,11 @@
     "by": "automatic triage",
     "date": "2026-10-22",
     "reason": "the condition is what its description is about; offers support, advice, groups or activities; kept after reading the description (Claude (read the description), 18 Oct 2026); website says \"have now closed\""
+  },
+  "oscr:SC043139": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-10-28",
+    "reason": "offers support, advice, groups or activities; runs a school or college"
   }
 }
