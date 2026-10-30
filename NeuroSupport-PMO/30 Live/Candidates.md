@@ -1,21 +1,19 @@
 ---
 title: Candidates
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 506 possible organisations on 29 Oct 2026, from the charity registers of all 4 nations.
+> **Found:** 506 possible organisations on 30 Oct 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 142. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 29 Oct 2026
+## 🆕 New on 30 Oct 2026
 
-**Added to the directory automatically (2):** named for a condition, with a working website.
-- ✅ MAGIC MOMENTS FOR AUTISTIC KIDS (England): autism
-- ✅ ALL SPECTRUM (England): autism
+- Nothing was added automatically.
 
 - No new ones still settling.
 

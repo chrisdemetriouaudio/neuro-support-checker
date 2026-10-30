@@ -9340,5 +9340,11 @@
     "by": "automatic triage",
     "date": "2026-10-29",
     "reason": "the condition comes early in what it does; offers support, advice, groups or activities; the register says it gives advice, advocacy or information; kept after reading the description (Claude (read the description), 18 Oct 2026)"
+  },
+  "oscr:SC050695": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-10-30",
+    "reason": "offers support, advice, groups or activities"
   }
 }

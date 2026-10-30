@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-10-29",
+  "extractDate": "2026-10-30",
   "entries": {
     "205244": {
       "number": "205244",
@@ -3739,7 +3739,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2024-12-31",
+      "lastAccounts": "2025-12-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -8251,7 +8251,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2024-12-31",
+      "lastAccounts": "2025-12-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
