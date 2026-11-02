@@ -1,21 +1,22 @@
 ---
 title: Candidates
-updated: 2026-11-01
+updated: 2026-11-02
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 506 possible organisations on 1 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 507 possible organisations on 2 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 142. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 1 Nov 2026
+## 🆕 New on 2 Nov 2026
 
 - Nothing was added automatically.
 
-- No new ones still settling.
+**New and still settling (1):** decided within 7 days. You can look at them in Admin → Review candidates, but you do not have to.
+- ⏳ FAMILIES OUT LOUD (England): neurodiversity
 
 ## 🗺️ By nation and condition
 
@@ -32,9 +33,9 @@ updated: 2026-11-01
 | dyslexia | 24 | 6 | 2 | 0 |
 | dyspraxia (DCD) | 1 | 1 | 0 | 0 |
 | learning disability | 207 | 29 | 50 | 36 |
-| neurodiversity | 8 | 6 | 5 | 3 |
+| neurodiversity | 9 | 6 | 5 | 3 |
 | sensory processing | 1 | 0 | 0 | 0 |
-| **All** | **354** | **65** | **81** | **58** |
+| **All** | **355** | **65** | **81** | **58** |
 
 An organisation can count under more than one condition and more than one nation.
 
