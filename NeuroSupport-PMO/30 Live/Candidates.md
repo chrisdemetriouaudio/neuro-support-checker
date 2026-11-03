@@ -1,22 +1,21 @@
 ---
 title: Candidates
-updated: 2026-11-02
+updated: 2026-11-03
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 507 possible organisations on 2 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 507 possible organisations on 3 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 142. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 2 Nov 2026
+## 🆕 New on 3 Nov 2026
 
 - Nothing was added automatically.
 
-**New and still settling (1):** decided within 7 days. You can look at them in Admin → Review candidates, but you do not have to.
-- ⏳ FAMILIES OUT LOUD (England): neurodiversity
+- No new ones still settling.
 
 ## 🗺️ By nation and condition
 
