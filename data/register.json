@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-04",
+  "extractDate": "2026-11-05",
   "entries": {
     "205244": {
       "number": "205244",
@@ -618,8 +618,8 @@
       "name": "THE SOUTH WARWICKSHIRE DYSLEXIA ASSOCIATION",
       "status": "Registered",
       "removedOn": null,
-      "reporting": "Submission Overdue",
-      "lastAccounts": "2024-12-31",
+      "reporting": "Submission Received Late",
+      "lastAccounts": "2025-12-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -7920,6 +7920,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "www.s4nd.org"
+    },
+    "1191870": {
+      "number": "1191870",
+      "name": "STAFFORDSHIRE ADULTS AUTISTIC SOCIETY",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received Late",
+      "lastAccounts": "2025-01-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "staffs-autism.co.uk"
     },
     "1192585": {
       "number": "1192585",
