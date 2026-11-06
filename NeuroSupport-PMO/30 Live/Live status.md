@@ -1,14 +1,14 @@
 ---
 title: Live status
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 📡 Live status
 
 > [!info] At a glance
-> **Last check:** 5 Nov 2026, 911 services.
-> **To review:** 31 (5 likely closed, 26 need a check).
-> **Fine:** 876 look active, 0 confirmed. **Closed:** 4.
+> **Last check:** 6 Nov 2026, 911 services.
+> **To review:** 27 (5 likely closed, 22 need a check).
+> **Fine:** 880 look active, 0 confirmed. **Closed:** 4.
 > This page rewrites itself after every daily check. Edits made here are lost.
 
 > [!info]- How to read the ticks and the score (tap to open)
@@ -36,12 +36,12 @@ updated: 2026-11-05
 - 🟡 **Check Croydon People First:** needs a check since 24 Oct 2026. Score 🟠 69.
 - 🔴 **Check Headway Norfolk and Waveney Ltd:** likely closed since 22 Oct 2026. Score 🟠 69.
 - 🟡 **Check Oj's Sensory Interaction Trust:** needs a check since 22 Oct 2026. Score 🟠 69.
+- 🟡 **Check One Life Autism Support Group:** needs a check since 6 Nov 2026. Score 🟡 75.
 - 🟡 **Check Always Bee You CIO:** needs a check since 20 Oct 2026. Score 🟡 83.
 - 🟡 **Check Autism Bedfordshire:** needs a check since 3 Nov 2026. Score 🟡 83.
 - 🟡 **Check Community Connex Ltd.:** needs a check since 22 Oct 2026. Score 🟡 83.
 - 🟡 **Check Dopamine Dolls:** needs a check since 20 Oct 2026. Score 🟡 83.
 - 🟡 **Check Headway Devon:** needs a check since 29 Oct 2026. Score 🟡 83.
-- 🟡 **Check Headway Swindon and District:** needs a check since 28 Oct 2026. Score 🟡 83.
 - 🟡 **Check Lancashire First CIO:** needs a check since 23 Oct 2026. Score 🟡 83.
 - 🟡 **Check Mencap Liverpool:** needs a check since 4 Nov 2026. Score 🟡 83.
 - 🟡 **Check Mencap Mon:** needs a check since 22 Oct 2026. Score 🟡 83.
@@ -49,33 +49,29 @@ updated: 2026-11-05
 - 🟡 **Check Neurodiversity Action:** needs a check since 5 Nov 2026. Score 🟡 83.
 - 🟡 **Check North Somerset People First:** needs a check since 22 Oct 2026. Score 🟡 83.
 - 🟡 **Check Seren Ffestiniog Cyf.:** needs a check since 24 Oct 2026. Score 🟡 83.
-- 🟡 **Check Social Link:** needs a check since 22 Oct 2026. Score 🟡 83.
 - 🟡 **Check The Brain Injury Foundation:** needs a check since 3 Nov 2026. Score 🟡 83.
 - 🟡 **Check The Spectrum Place Hub:** needs a check since 1 Nov 2026. Score 🟡 83.
-- 🟡 **Check The Toby Henderson Trust Limited:** needs a check since 1 Nov 2026. Score 🟡 83.
 - 🟡 **Check UP Community:** needs a check since 25 Oct 2026. Score 🟡 83.
 - 🟡 **Check Windsor & Maidenhead Starfish Swimming Club:** needs a check since 27 Oct 2026. Score 🟡 83.
-- 🟡 **Check Exeter and District Mencap Society:** needs a check since 5 Nov 2026. Score 🟢 94.
 - 🟡 **Check Pulp Friction Smoothie Bar CIO:** needs a check since 18 Oct 2026. Score 🟢 94.
-- 🟡 **Check Stepping Stone 2to:** needs a check since 5 Nov 2026. Score 🟢 94.
 - 🟡 **Check Zigzag Leeds Autism Support:** needs a check since 22 Oct 2026. Score 🟢 94.
 
 | Service | Score | Web address | Website answers | No closing notice | Not for sale | Same address | Charity register | Confirmed by them | Why |
 | --- | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- |
-| [ADHD Liberty](https://www.adhdliberty.org) | ⚫ 0 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1197012 is dissolved (register of 5 Nov 2026) |
-| [Grooops Dyslexia Aware Counselling](https://www.grooops.org) | ⚫ 0 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1168098 is dissolved (register of 5 Nov 2026) |
-| [Bemix](https://www.bemix.org) | 🔴 40 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1205783 is in administration (register of 5 Nov 2026) |
-| [Rotherham Advocacy Partnerships](https://www.rotherhamadvocacy.org.uk) | 🔴 40 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1080025 is marked insolvent (register of 5 Nov 2026) |
+| [ADHD Liberty](https://www.adhdliberty.org) | ⚫ 0 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1197012 is dissolved (register of 6 Nov 2026) |
+| [Grooops Dyslexia Aware Counselling](https://www.grooops.org) | ⚫ 0 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1168098 is dissolved (register of 6 Nov 2026) |
+| [Bemix](https://www.bemix.org) | 🔴 40 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1205783 is in administration (register of 6 Nov 2026) |
+| [Rotherham Advocacy Partnerships](https://www.rotherhamadvocacy.org.uk) | 🔴 40 | ✅ | ✅ | ✅ | ✅ | ✅ | 🔴 | ⚪ | Proof: Charity 1080025 is marked insolvent (register of 6 Nov 2026) |
 | [Autism Rocks](https://www.autism.rocks) | 🟠 69 | ✅ | 🔴 | ✅ | ✅ | ✅ | 🟡 | ⚪ | Website down on 7 of the last 7 checks |
 | [Croydon People First](https://www.croydonpeoplefirst.org.uk) | 🟠 69 | ✅ | 🔴 | ✅ | ✅ | ✅ | 🟡 | ⚪ | Website down on 7 of the last 7 checks |
 | [Headway Norfolk and Waveney Ltd](https://www.headway-nw.org.uk) | 🟠 69 | 🔴 | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | Web address not found on 7 of the last 7 checks |
-| [Oj's Sensory Interaction Trust](https://www.ojscare.org) | 🟠 69 | ✅ | 🔴 | ✅ | ✅ | ✅ | 🟡 | ⚪ | Website down on 4 of the last 7 checks |
-| [Always Bee You CIO](https://www.alwaysbeeyou.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 6 of the last 7 checks |
-| [Autism Bedfordshire](https://www.autismbedfordshire.net) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 4 of the last 7 checks |
+| [Oj's Sensory Interaction Trust](https://www.ojscare.org) | 🟠 69 | ✅ | 🔴 | ✅ | ✅ | ✅ | 🟡 | ⚪ | Website down on 3 of the last 7 checks |
+| [One Life Autism Support Group](https://www.onelifewales.com) | 🟡 75 | 🟡 | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
+| [Always Bee You CIO](https://www.alwaysbeeyou.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 5 of the last 7 checks |
+| [Autism Bedfordshire](https://www.autismbedfordshire.net) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
 | [Community Connex Ltd.](https://www.communityconnex.co.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 6 of the last 7 checks |
 | [Dopamine Dolls](https://www.dopaminedolls.co.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
 | [Headway Devon](https://www.headwaydevon.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
-| [Headway Swindon and District](https://www.headwayswindon.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
 | [Lancashire First CIO](https://www.lancashirefirst.org) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
 | [Mencap Liverpool](https://www.mencapliverpool.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
 | [Mencap Mon](https://www.mencapmon.com) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 6 of the last 7 checks |
@@ -83,31 +79,26 @@ updated: 2026-11-05
 | [Neurodiversity Action](https://www.neurodiversityaction.org) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
 | [North Somerset People First](https://www.nspf.co.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 6 of the last 7 checks |
 | [Seren Ffestiniog Cyf.](https://www.serencyf.org) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
-| [Social Link](https://www.sociallinkcharity.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
-| [The Brain Injury Foundation](https://www.thebraininjuryfoundation.com) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 4 of the last 7 checks |
-| [The Spectrum Place Hub](https://www.thespectrumplace.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 5 of the last 7 checks |
-| [The Toby Henderson Trust Limited](https://www.ttht.co.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
+| [The Brain Injury Foundation](https://www.thebraininjuryfoundation.com) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 3 of the last 7 checks |
+| [The Spectrum Place Hub](https://www.thespectrumplace.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 4 of the last 7 checks |
 | [UP Community](http://upcommunity.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
 | [Windsor & Maidenhead Starfish Swimming Club](http://starfish-swimming.org.uk) | 🟡 83 | ✅ | 🔴 | ✅ | ✅ | ✅ | ✅ | ⚪ | Website down on 7 of the last 7 checks |
-| [Exeter and District Mencap Society](http://www.exetermencap.org.uk) | 🟢 94 | ✅ | ✅ | ✅ | ✅ | 🔴 | ✅ | ⚪ | Website now goes to google.com |
 | [Pulp Friction Smoothie Bar CIO](https://www.pulpfrictioncic.org.uk) | 🟢 94 | ✅ | ✅ | ✅ | ✅ | 🔴 | ✅ | ⚪ | Website now goes to pulpfrictioncio.org.uk |
-| [Stepping Stone 2to](https://steppingstone2to.blogspot.com) | 🟢 94 | ✅ | ✅ | ✅ | ✅ | 🔴 | ✅ | ⚪ | Website now goes to google.com |
 | [Zigzag Leeds Autism Support](https://www.zigzagautismservices.co.uk) | 🟢 94 | ✅ | ✅ | ✅ | ✅ | 🔴 | ✅ | ⚪ | Website now goes to zigzagautismservices.com |
 
 To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/admin): "It is still running" or "Remove".
 
 ## ✅ Fine
 
-> [!success]- 876 services look fine (lowest score first)
+> [!success]- 880 services look fine (lowest score first)
 > | Service | Score | Web address | Website answers | No closing notice | Not for sale | Same address | Charity register | Confirmed by them | Last checked |
 > | --- | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- |
-> | [Autism Independent UK](https://www.autismuk.com) | 🟡 78 | ✅ | 🟡 | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
-> | [Headway Cornwall](https://www.headwaycornwall.org.uk) | 🟡 78 | ✅ | 🟡 | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
-> | [One Life Autism Support Group](https://www.onelifewales.com) | 🟡 83 | 🟡 | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Autism Independent UK](https://www.autismuk.com) | 🟡 78 | ✅ | 🟡 | ✅ | ✅ | ✅ | 🟡 | ⚪ | 6 Nov 2026 |
+> | [Headway Cornwall](https://www.headwaycornwall.org.uk) | 🟡 78 | ✅ | 🟡 | ✅ | ✅ | ✅ | 🟡 | ⚪ | 6 Nov 2026 |
 > | [Autism Aware UK](https://www.autismaware.co.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [Autism Inclusive](https://www.aicrewe.org.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [Bridging the Gap South East](https://www.btgse.co.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 4 Nov 2026 |
-> | [Clair's Parents Meeting Parents ADHD Support](https://www.clairspmpadhd.org) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 3 Nov 2026 |
+> | [Clair's Parents Meeting Parents ADHD Support](https://www.clairspmpadhd.org) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 6 Nov 2026 |
 > | [Colchester Phoenix Amateur Swimming Club](http://www.colchesterphoenixasc.org.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [Cricket Federation for People with Disabilities](https://www.cfpd.org.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [Els for Autism (UK)](https://www.elsforautism.org) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
@@ -123,41 +114,35 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Run For Autism HAND](https://www.runforautismhand.com) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [Tees Valley Buddies](https://teesvalleybuddies.co.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
 > | [The Centre for Brain Injury Rehabilitation and Development](https://www.birdcharity.org.uk) | 🟡 86 | ✅ | ✅ | ✅ | ✅ | ✅ | 🟡 | ⚪ | 5 Nov 2026 |
-> | [Neurodivergence Wales (National Neurodivergence Team)](https://neurodivergencewales.org) | 🟡 88 | ✅ | 🟡 | ✅ | ✅ | ✅ | ⚪ | ⚪ | 5 Nov 2026 |
-> | [Asperger East Anglia](https://www.asperger.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Audhd UK](https://www.audhduk.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Autism Angels Ltd](https://www.autismangels.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Autistic Nottingham](https://www.autisticnottingham.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Cure Clcn4 Ltd](https://cureclcn4.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Diverse UK](https://www.diverseuk.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Doncaster Mencap](https://www.localmencapdoncaster.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Grampian Opportunities (SCIO)](https://www.grampianopportunities.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Green Routes Stirling](https://www.greenroutes.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Hackney People First](https://www.hackneypeoplefirst.com) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Headway North Staffordshire (Head Injuries Association) Ltd](https://www.headwaynorthstaffs.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Inspire Community Activities Louth CIO](https://www.inspireactivities.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Inspire Nottingham](https://www.inspire-nottingham.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Lilyanne's Wellbeing](https://www.lilyannes.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Lincoln ADHD Support Group](https://www.adhdlincs.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Millennium Farm Trust](https://www.depden.com) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Oak Hill Asd Childcare](https://www.oakhillasd.com) | 🟢 92 | 🟡 | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Sandhurst Group Riding for the Disabled Association](https://www.sandhurstrda.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Scottish Commission For Learning Disability](https://www.scld.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [SNAP Special Needs Action Project](https://www.snapinverness.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Speakeasy Now](https://www.speakeasynow.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [St. Helens Autism Support](http://www.sthautismsupport.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Sundowns](https://www.sundowns.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The International Pre-Autistic Network](https://www.preautism.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Monday Night Club](https://www.themondaynightclub.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Thrive Autism](https://www.thrive-autism.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Under the Stars](https://www.underthestars.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Wakefield and District Down's Syndrome Support Group](https://www.downsyndrome-wakefield.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Westgate Youth Project](http://www.westgateyouthproject.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Neurodivergence Wales (National Neurodivergence Team)](https://neurodivergencewales.org) | 🟡 88 | ✅ | 🟡 | ✅ | ✅ | ✅ | ⚪ | ⚪ | 6 Nov 2026 |
+> | [Asperger East Anglia](https://www.asperger.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Audhd UK](https://www.audhduk.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Autistic Nottingham](https://www.autisticnottingham.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Cure Clcn4 Ltd](https://cureclcn4.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Diverse UK](https://www.diverseuk.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Doncaster Mencap](https://www.localmencapdoncaster.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Grampian Opportunities (SCIO)](https://www.grampianopportunities.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Green Routes Stirling](https://www.greenroutes.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Hackney People First](https://www.hackneypeoplefirst.com) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Headway Swindon and District](https://www.headwayswindon.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Inspire Nottingham](https://www.inspire-nottingham.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Lilyanne's Wellbeing](https://www.lilyannes.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Millennium Farm Trust](https://www.depden.com) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Oak Hill Asd Childcare](https://www.oakhillasd.com) | 🟢 92 | 🟡 | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Sandhurst Group Riding for the Disabled Association](https://www.sandhurstrda.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Scottish Commission For Learning Disability](https://www.scld.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [SNAP Special Needs Action Project](https://www.snapinverness.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Social Link](https://www.sociallinkcharity.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Sundowns](https://www.sundowns.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [The International Pre-Autistic Network](https://www.preautism.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [The Monday Night Club](https://www.themondaynightclub.org.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [The Toby Henderson Trust Limited](https://www.ttht.co.uk) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [Thrive Autism](https://www.thrive-autism.org) | 🟢 92 | ✅ | 🟡 | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [188 Charity](https://www.188daycentre.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [21 Plus](https://21plus.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [21 Together](https://www.21together.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [3 Million Steps](https://3millionsteps.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [4eden](https://www.4eden.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [4eden](https://www.4eden.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [A Creative Transformation](https://acreativetransformation.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [AADD-UK](https://aadduk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | ⚪ | 5 Nov 2026 |
 > | [ABC Autism Group](https://www.facebook.com/abc.autism.s) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -192,16 +177,16 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Airedale and Wharfedale Autism Resource](https://www.aware-uk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Alex Foundation](https://www.alexfoundation.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [All In!](https://allindorset.co.uk/allin) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [All Spectrum](https://www.allspectrum.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [All Spectrum](https://www.allspectrum.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Ambitious about Autism](https://www.ambitiousaboutautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Angels Support Group Hitchin](https://www.angelssupportgroup.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Angels Support Group Hitchin](https://www.angelssupportgroup.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Anjali Dance Company Limited](https://www.anjali.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Anna Kennedy Online](https://annakennedyonline.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Ansaar](https://www.ansaar.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [AP Cymru](https://www.apcymru.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Apasen](https://www.apasen.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Archie Matthews Trust](https://www.archiematthewstrust.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Art in Motion Charitable Trust](https://artinmotion.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Art in Motion Charitable Trust](https://artinmotion.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Artbox London](http://www.artboxlondon.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Arts 4 Wellbeing](https://www.arts4wellbeing.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Ascape](https://ascapegroup.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -218,8 +203,9 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Autisfun Group](https://autisfungroup.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Autism All Stars Foundation UK](https://www.autism-all-stars.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Autism and Neurodiversity North Scotland](http://www.a-nd.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Autism Angels Ltd](https://www.autismangels.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Autism Anglia](https://www.autism-anglia.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Autism at Kingwood](https://www.kingwood.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Autism at Kingwood](https://www.kingwood.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Autism Berkshire](https://www.autismberkshire.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Autism Bucks](https://autism-bucks.charity) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Autism Central](https://www.autismcentral.nhs.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | ⚪ | 5 Nov 2026 |
@@ -262,7 +248,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Bedfordshire Down's Syndrome Support Group](https://www.bedsdownssyndrome.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Bedfordshire Opportunities for Learning Disabilities Ltd](https://www.bo4ld.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Bee Unique](https://www.beeuniquecharity.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Befriending & Adult Autism Support](https://www.b-aas.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Befriending & Adult Autism Support](https://www.b-aas.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Better Things](https://wearebetterthings.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Bexley Down's Syndrome Group](https://www.bexleydownssyndrome.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Bibic](https://www.bibic.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -288,7 +274,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Bridgend County Group Riding for the Disabled Association Incorporating Carriage Driving](https://www.bridgendcountyrda.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Brighton & Hove Speak Out](https://www.bhspeakout.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Bristol Autism Support](https://www.bristolautismsupport.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [British Dyslexia Association](https://www.bdadyslexia.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [British Dyslexia Association](https://www.bdadyslexia.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [British Para Table Tennis Ltd](https://www.britishparatabletennis.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Buddy's for Children with Autism](https://www.buddys.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Burwell Community Print Centre Limited](https://www.burwellprint.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -317,7 +303,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Challenge A Northern Ireland Charity for People for Learning Disabilities](https://www.praxiscare.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Chattertots](https://www.chattertots.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Cheshire Autism Practical Support Ltd](https://www.cheshireautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Cheshire ,North Wales & Wirrel Dyslexia Associaton](https://cnwda.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Cheshire ,North Wales & Wirrel Dyslexia Associaton](https://cnwda.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Chichester and Arun Down Syndrome Group](https://cadsg.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Child Autism UK](https://www.childautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Child Brain Injury Trust](https://www.childbraininjurytrust.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -367,7 +353,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Down's South London](http://www.downssouthlondon.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Down's Syndrome - Derby](https://www.dsderby.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Down's Syndrome Association](https://www.downs-syndrome.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Downs Syndrome Diamond Foundation Limited](https://downsyndrome.digital) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Downs Syndrome Diamond Foundation Limited](https://downsyndrome.digital) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Down's Syndrome Manchester](https://www.dsmanchester.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Downs Syndrome Medical Interest Group](https://www.dsmig.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Down's Syndrome Norfolk](https://downsyndrome-norfolk.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -391,17 +377,17 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Dyslexia Scotwest](https://www.dyslexiasw.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Dyslexia Trust](https://www.dyslexiacentre.co.uk/dyslexia-trust) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Dyspraxic Me](https://www.dyspraxic.me.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Ealing Dyslexia Association](https://ealingdyslexia.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Ealing Dyslexia Association](https://ealingdyslexia.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [East Lancashire Down's Syndrome Support Group](http://www.eastlancsds.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [East Lincolnshire Down's Syndrome Family Support Group](https://www.eastlincolnshiredownsyndrome.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [East Liverpool Riding for the Disabled Association Incorporating Carriage Driving](https://eastliverpoolrda.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [East Park Rda](https://www.eastparkrda.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Eastbourne Bird Aid CIO](https://www.birdaid.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Eastbourne Bird Aid CIO](https://www.birdaid.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Eastleigh Borough & Romsey Mencap Society](https://www.ebrmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Edinburgh Headway Group](https://www.edinburghheadway.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Education and Services for People with Autism Limited](https://www.espa.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Efa (Empower Female Autism)](https://www.efacharity.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Electric Eels](https://www.electriceels.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Electric Eels](https://www.electriceels.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Elmbridge Community Link](https://www.eclwalton.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Elmbridge Mencap](https://www.elmbridgemencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Emotion Dysregulation in Autism](https://emotiondysregautism.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -412,6 +398,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Enrych](https://www.enrych.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Equipped4learning](https://www.equipped4learning.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Eric Knows](https://ericknows.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Exeter and District Mencap Society](http://www.exetermencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Fair Limited](https://www.fairadvice.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Families First (North East)](https://www.familiesfirstne.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Families for Individual Needs and Dignity](https://www.findcharity.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -441,7 +428,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Halow Project](https://www.halowproject.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hammersmith and Fulham Mencap](https://www.hfmencap.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hands that Assist](https://www.handsthatassist.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Harpenden Mencap](https://harpendenmencap.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Harpenden Mencap](https://harpendenmencap.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Harrow Gateway](https://www.harrowgateway.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hastings and Bexhill Mencap Society](https://www.hastings-bexhill-mencap.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Haven Community](https://www.havencommunity.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -454,7 +441,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Headway Basingstoke](https://www.headwaybasingstoke.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Bath and District](https://www.headwaybath.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Birmingham & Solihull](https://www.headway-bs.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Headway Black Country](https://headwayblackcountry.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Headway Black Country](https://headwayblackcountry.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Headway Blackpool Limited](https://www.headwayblackpool.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Bristol Brain Injury Association Limited](https://www.headwaybristol.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Cambridge and Peterborough Ltd](https://www.headwaycp.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -472,6 +459,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Headway London - Brain Injury Services](https://www.headwayeastlondon.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Luton Ltd](https://www.headwayluton.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway North Derbyshire](https://www.headwaynorthderbyshire.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Headway North Staffordshire (Head Injuries Association) Ltd](https://www.headwaynorthstaffs.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Headway North West London](https://www.headwaynorthwestlondon.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Nottingham Limited](https://www.headwaynottingham.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Plymouth](https://www.headwayplymouth.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -483,7 +471,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Headway South Staffordshire](https://www.headwaysouthstaffs.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway South West London](https://www.headwayswlondon.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Southampton](https://www.headway-southampton.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Headway Suffolk and Norfolk LTD](https://headwaysuffolkandnorfolk.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Headway Suffolk and Norfolk LTD](https://headwaysuffolkandnorfolk.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Headway Surrey Head Injuries Association Ltd](https://www.headwaysurrey.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Sussex Ltd](https://www.headwaysussex.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Headway Teesside](https://www.headwayteesside.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -502,7 +490,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Hertfordshire Dyslexia Association](https://www.hertsdyslexia.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hertsmere Mencap](https://www.hertsmeremencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hillingdon Autistic Care & Support Limited](https://www.hacs.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Hillingdon Brain Tumour & Brain Injury Group](https://hbtg.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Hillingdon Brain Tumour & Brain Injury Group](https://hbtg.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Hipp!!bones](https://www.hippbones.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Hitchin Choices](https://www.hitchinchoices.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [HOPE for Autism](https://www.hopeforautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -519,6 +507,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Impact Theatre](https://www.impacttheatre.co) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Independent Community Autism Activity Network](https://www.icaan.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Independent Dyslexia Consultants](https://www.dyslexia-idc.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Inspire Community Activities Louth CIO](https://www.inspireactivities.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Interest Link Borders](https://www.interestlink.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Interplay Theatre Trust](https://www.interplaytheatre.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Intoart Projects](https://www.intoart.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -542,7 +531,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Kith and Kids](https://www.kithandkids.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Kyle's Goal](https://www.kylesgoal.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 4 Nov 2026 |
 > | [Lambeth Elfrida Rathbone Society](https://www.rathbonesociety.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Lancashire Taag](https://lancashiretaag.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Lancashire Taag](https://lancashiretaag.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Landau Limited](https://www.landau.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Leading Players](https://www.leadingplayers.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Leapgate Activity Centre](https://leapgateactivitycentre.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -559,7 +548,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Leighton Buzzard Mencap](https://www.lbmencap.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lejeune Clinic for Children with Down Syndrome](https://www.lejeuneclinic.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lets Unite for Autism Limited](https://www.letsuniteforautism.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Lewisham Mencap](https://lewishammencaporguk.wordpress.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Lewisham Mencap](https://lewishammencaporguk.wordpress.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Lewisham Speaking Up](https://lsup.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Liberdade Community Development Trust](https://www.liberdade.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lifeworks Charity Limited](https://www.lifeworks-uk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -567,6 +556,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Lifted](http://liftedmcr.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lighthouse Futures Trust](https://lighthousefuturestrust.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lighthouse Safe Harbour](https://www.lighthousecentral.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Lincoln ADHD Support Group](https://www.adhdlincs.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Lincolnshire Autistic Society](https://www.lincolnshireautisticsociety.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Lincolnshire Down's Syndrome Support Group](http://www.lincsdownsyndrome.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Little Brains](https://www.littlebrainseastkilbride.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -585,7 +575,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Lung Ha Theatre Company](https://www.lungha.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [M2 Sped Awareness](https://www.m2spedawareness.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Made by Dyslexia](https://www.madebydyslexia.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Magic Moments for Autistic Kids](https://www.magicmomentsforautistickids.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Magic Moments for Autistic Kids](https://www.magicmomentsforautistickids.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Magpie Dance](https://www.magpiedance.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Maidenhead Mencap](https://www.mencapmaidenhead.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 4 Nov 2026 |
 > | [Maidstone Mencap Charitable Trust](https://maidstonemencap.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -597,7 +587,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Matthew Lock ADHD Charity](https://www.matthewlockadhdcharity.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Matthew's Hub](https://www.matthewshub.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Meander Theatre Company](https://www.meandertheatre.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Medway Puzzles](https://medwaypuzzles.wordpress.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Medway Puzzles](https://medwaypuzzles.wordpress.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Melton Mencap](https://www.meltonmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Memory Gardens](https://www.handandskyproject.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Mencap](https://www.mencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -636,7 +626,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [New Opportunities for Community and Support (Nocs)](https://nocscharity.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Newark and Sherwood Autism Support Group](https://www.newarkautism.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Newhaven, Lewes and District Mencap](https://www.newhavenmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 4 Nov 2026 |
-> | [No Big Light](https://nobiglight.my.canva.site) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [No Big Light](https://nobiglight.my.canva.site) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Noah's Place Care Farm](https://www.noahs-place.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Noa's Place CIO](https://www.noasplace.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [North Devon Forum for Autistic Spectrum Conditions and ADHD](https://www.ndfautism.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -644,7 +634,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [North Staffs Asperger / Autism Association](https://www.nsaaa.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Northallerton and the Dales Mencap Society](https://www.northallertonmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Northamptonshire People First Ltd](https://www.peoplefirst.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Northdale Horticulture](https://www.northdale.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Northdale Horticulture](https://www.northdale.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Norwich and Norfolk OCD Voluntary Support Group](https://norwichandnorfolkocdsupport.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Nottinghamshire Down's Syndrome Support Group](https://www.ndssg.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Nuneaton Bedworth and District Mencap Society](https://www.mencap-nuneatondistrict.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -682,7 +672,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Paul Ridd Foundation](https://www.paulriddfoundation.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [PDA Society](https://www.pdasociety.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [P.e.a.k (Parenting Empowered Autistic Kids)](https://parentingempoweredautistickids.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Pembrokeshire Frame Limited](https://www.pembrokeshire-frame.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Pembrokeshire Frame Limited](https://www.pembrokeshire-frame.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Pembrokeshire Mencap Ltd](https://www.stackpole-walledgardens.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Pembrokeshire People First](https://www.pembrokeshirepeople1st.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Pennyhooks Farm Trust](https://www.pennyhooks.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -700,7 +690,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Plymouth Mayflower Specials](https://www.mayflowerspecials.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [PMLD - Link](https://www.pmldlink.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Poetry in Wood CIO](https://poetryinwood.squarespace.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Potential Kids Limited](https://potentialkids.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Potential Kids Limited](https://potentialkids.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Pro Autism Parents Relatives and Others for Autism](https://www.proautism.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Pro-Active Community](https://www.proactivecommunity.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Profound and Multiple Impairment Service](http://www.pamis.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -713,7 +703,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Qe2 Activity Centre](https://www.qe2activitycentre.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Radiomarathon (for Children with Special Needs) Ltd](https://www.radiomarathon.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Rainbow Stars Disability Group Sleaford](https://www.rainbowstarslincs.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Raising Twenty1](https://raisingtwenty1.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Raising Twenty1](https://raisingtwenty1.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [REACH Lanarkshire Autism](https://www.reachautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Reach Learning Disability](https://www.reachuk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Reach4Reality SCIO](https://www.reach4reality.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -732,7 +722,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [River Drama](https://www.riverdrama.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Rochdale Gateway Leisure Limited](https://www.gatewayleisure.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Romford Autistic Group Support](https://www.rags-havering.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Roots to Branches Autism Network](https://roots2branches.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Roots to Branches Autism Network](https://roots2branches.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Rotherham Organisation for Down's Syndrome](https://rods-rotherham.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Rowan Humberstone Limited](https://rowanhumberstone.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Rugby Autism Network](https://www.rugbyautismnetwork.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -781,6 +771,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Southport and Formby Special Athletes](https://www.southportspecialathletes.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Space](https://www.spaceherts.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Sparkles - Supporting Children with Down's Syndrome](https://www.sparkles.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Speakeasy Now](https://www.speakeasynow.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Speaking Up Together Beyond Boundaries](https://www.yvc.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Speakup Self Advocacy Limited](https://www.speakup.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Special Educational Needs Families Support Group Limited](https://www.senfsg.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -795,8 +786,9 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Sporting Challenge](http://www.sporting-challenge.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Sporting Opportunities Isle of Wight](https://soiw.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Square Pegs Arts](https://www.squarepegsarts.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [St. Helens Autism Support](http://www.sthautismsupport.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [St. Stephen's Neighbourhood Centre Ltd](https://www.ssnc.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Staffordshire Adults Autistic Society](https://staffs-autism.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Staffordshire Adults Autistic Society](https://staffs-autism.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Stage Beyond Theatre Company](https://www.stagebeyond.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Starling](https://starlingcio.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Stars Community Creations](https://en-gb.facebook.com/pages/category/Nonprofit-Organization/STARS-Community-Creations-1133460626720183) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -805,6 +797,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Step](https://www.stepfootball.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Step and Stone Works CIO](https://www.stepandstone.co) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Step (Swindon)](https://stepswindon.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Stepping Stone 2to](https://steppingstone2to.blogspot.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Stepping Stones Learning and Leisure](https://www.steppingstoneslearning.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Steps Conductive Education Centre](https://www.stepscentre.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Stockport, East Cheshire, High Peak, Urmston & District Cerebral Palsy Society](https://www.supportability.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -868,26 +861,26 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [The Elfrida Society](https://www.elfrida.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Emily Jordan Foundation Projects Limited](https://www.theemilyjordanfoundation.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Engine Shed](http://www.theengineshed.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Epping Forest Sunflower Group](https://sunflowergroup.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [The Epping Forest Sunflower Group](https://sunflowergroup.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [The Fenner Frost Foundation](https://www.fennerfrostfoundation.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Fragile X Society](https://www.fragilex.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Garden House (Marple) Charity](https://www.thegardenhousemarple.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Giving Tree Foundation - Turning Autism Around](https://thegivingtreefoundation.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Gloucestershire Dyslexia Association](https://glosdyslexia.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [The Gloucestershire Dyslexia Association](https://glosdyslexia.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [The Group the Musical](http://www.thegroupthemusical.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Hampshire Dyslexia Association](http://www.hantsda.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Harington Scheme Limited](https://www.harington.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Henry Grierson ADHD & Mental Health Foundation](https://www.henrygrierson.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Hereford and Worcester Dyslexia Association](https://www.hwda.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Hidden](https://thehidden.charity) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [The Hidden](https://thehidden.charity) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [The Honiton 729 Club](https://www.honiton729club.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Hub Yeovil Community Support Charity](https://www.thehubyeovil.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Huddersfield Support Group for Autism](https://www.hsga.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Hut York Limited](http://www.thehutyork.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Inclusionists](https://www.theinclusionists.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Join Project](https://www.joinproject.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Kent Autistic Trust](https://kentautistictrust.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
-> | [The Kisharon Charitable Trust](https://kisharonlangdon.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [The Kent Autistic Trust](https://kentautistictrust.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
+> | [The Kisharon Charitable Trust](https://kisharonlangdon.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [The Knightly Trust](https://www.theknightlytrust.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Maldon Pioneers Association](https://www.themaldonpioneers.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Mersea Island Festival Trust](https://www.merseafestival.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -901,7 +894,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [The Oily Cart Company](https://www.oilycart.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Open Door Centre (Swindon & District) Limited](https://www.theopendoorcentre.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Oxfordshire Dyslexia Association](https://www.oxdys.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [The Pendragon Community Trust](https://www.pendragon-ct.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [The Pendragon Community Trust](https://www.pendragon-ct.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [The People Hive](https://www.thepeoplehive.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Performing Arts Children's Charity](https://www.pachildrenscharity.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Phoenix Project (Iow)](https://www.phoenixprojectiow.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -924,7 +917,7 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [The Twisting Ducks Theatre Company CIO](https://www.thetwistingducks.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Waterside Centre, Kings Langley](https://thewatersidecentre.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [The Yatton House Society](https://www.yattonhouse.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Thera Trust](https://www.thera.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Thera Trust](https://www.thera.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Think18](https://www.think18.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 4 Nov 2026 |
 > | [Thinking Autism CIO](https://www.thinkingautism.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Tikva](https://www.tikvahope.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -942,12 +935,13 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Triumph Over Phobia (Top UK)](https://www.topuk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Two Rhythms](https://www.tworhythms.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Unbroken Kids Moray](https://unbroken-kids.mymawebsite.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Under the Stars](https://www.underthestars.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [United Kingdom Acquired Brain Injury Forum](https://www.ukabif.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [United Kingdom Sports Association for People with Learning Disability](https://www.sportexceluk.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [United Response](https://www.unitedresponse.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Uniting Friends Ltd](https://www.unitingfriends.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Up & Downs](http://upanddownswm.weebly.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Up on Downs ( Hertfordshire)](https://upondowns.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Up on Downs ( Hertfordshire)](https://upondowns.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Ups and Downs](https://www.upsndowns.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Upward Mobility Ltd](https://www.upmo.org) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Us in a Bus](https://www.usinabus.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -955,10 +949,11 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [Vision Beyond Autism UK](https://www.visionbeyondautism.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Vocal Advocacy](https://www.vocaladvocacy.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Voices of Aphasia](https://www.voicesofaphasia.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Wakefield and District Down's Syndrome Support Group](https://www.downsyndrome-wakefield.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Wakefield Autism Leisure Club](https://walconline.com) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Waltham Forest Dyslexia Association](https://www.wfda.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Walton Lea Partnership Limited](https://www.waltonlea.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Wave for Change](https://wave-for-change.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Wave for Change](https://wave-for-change.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Wave Muswell Hill CIO](https://www.wavehub.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Waveney Enterprises Workshop](https://www.waveneyenterprises.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [WECAN - We Enable Children with Additional Needs](https://www.wecanenable.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
@@ -968,10 +963,11 @@ To decide: use the **admin page** (https://neurosupport.labs.chrisdemetriou.com/
 > | [West Norfolk Autism Group](https://www.westnorfolkautismgroup.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [West Norfolk Mencap](https://www.wnmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [West Sussex Learning Links](https://www.wslearninglinks.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
+> | [Westgate Youth Project](http://www.westgateyouthproject.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Williams Syndrome Foundation](https://www.williams-syndrome.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Wimborne Wagtails Swimming Club for the Disabled](https://www.wimbornewagtails.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Winchester Go LD](https://www.winchestergold.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
-> | [Wirral Mencap](https://wirralmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 3 Nov 2026 |
+> | [Wirral Mencap](https://wirralmencap.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 6 Nov 2026 |
 > | [Wonderfully Made CIO](https://wonderfullymadegroup.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Working Together (Ludlow) Ltd](https://workingtogetherludlow.co.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |
 > | [Yellow Submarine Holidays](http://www.yellowsubmarine.org.uk) | 🟢 100 | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ⚪ | 5 Nov 2026 |

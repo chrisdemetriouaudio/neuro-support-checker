@@ -9352,5 +9352,17 @@
     "by": "automatic triage",
     "date": "2026-11-05",
     "reason": "named for autism; the condition is what its description is about; offers support, advice, groups or activities"
+  },
+  "oscr:SC052255": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-11-06",
+    "reason": "offers support, advice, groups or activities"
+  },
+  "ccew:1220275": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-11-06",
+    "reason": "the condition is what its description is about; offers support, advice, groups or activities; runs care or housing (a provider, not a signposting service)"
   }
 }

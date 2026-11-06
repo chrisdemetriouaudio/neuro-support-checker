@@ -1,20 +1,19 @@
 ---
 title: Candidates
-updated: 2026-11-05
+updated: 2026-11-06
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 507 possible organisations on 5 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 507 possible organisations on 6 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 141. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 5 Nov 2026
+## 🆕 New on 6 Nov 2026
 
-**Added to the directory automatically (1):** named for a condition, with a working website.
-- ✅ STAFFORDSHIRE ADULTS AUTISTIC SOCIETY (England): autism
+- Nothing was added automatically.
 
 - No new ones still settling.
 
