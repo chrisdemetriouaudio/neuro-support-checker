@@ -1,17 +1,17 @@
 ---
 title: Candidates
-updated: 2026-11-06
+updated: 2026-11-07
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 507 possible organisations on 6 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 508 possible organisations on 7 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 141. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 6 Nov 2026
+## 🆕 New on 7 Nov 2026
 
 - Nothing was added automatically.
 
@@ -31,10 +31,10 @@ updated: 2026-11-06
 | dyscalculia | 2 | 1 | 0 | 0 |
 | dyslexia | 24 | 6 | 2 | 0 |
 | dyspraxia (DCD) | 1 | 1 | 0 | 0 |
-| learning disability | 207 | 29 | 50 | 36 |
-| neurodiversity | 10 | 7 | 5 | 3 |
+| learning disability | 207 | 29 | 51 | 36 |
+| neurodiversity | 10 | 7 | 6 | 3 |
 | sensory processing | 1 | 0 | 0 | 0 |
-| **All** | **355** | **66** | **81** | **58** |
+| **All** | **355** | **66** | **82** | **58** |
 
 An organisation can count under more than one condition and more than one nation.
 
