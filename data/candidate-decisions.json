@@ -9364,5 +9364,11 @@
     "by": "automatic triage",
     "date": "2026-11-06",
     "reason": "the condition is what its description is about; offers support, advice, groups or activities; runs care or housing (a provider, not a signposting service)"
+  },
+  "oscr:SC054017": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-11-11",
+    "reason": "offers support, advice, groups or activities"
   }
 }
