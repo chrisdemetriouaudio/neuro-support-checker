@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-11",
+  "extractDate": "2026-11-12",
   "entries": {
     "205244": {
       "number": "205244",
@@ -544,14 +544,14 @@
     "326194": {
       "number": "326194",
       "name": "THE CENTRE FOR BRAIN INJURY REHABILITATION AND DEVELOPMENT",
-      "status": "Registered",
-      "removedOn": null,
-      "reporting": "Suppressed",
+      "status": "Removed",
+      "removedOn": "2026-11-11",
+      "reporting": "Removed",
       "lastAccounts": "2023-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
-      "web": "www.birdcharity.org.uk"
+      "web": null
     },
     "327691": {
       "number": "327691",
@@ -636,6 +636,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "wearebetterthings.co.uk"
+    },
+    "510506": {
+      "number": "510506",
+      "name": "KENILWORTH HELPING HANDS CLUB",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2025-08-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "www.khhclub.org.uk"
     },
     "511311": {
       "number": "511311",
@@ -2347,7 +2359,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -4015,7 +4027,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-10-05",
+      "lastAccounts": "2026-10-05",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -5767,7 +5779,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -8218,7 +8230,7 @@
       "lastAccounts": "2025-04-04",
       "insolvent": false,
       "inAdministration": false,
-      "dissolved": true,
+      "dissolved": false,
       "web": "https://www.adhdliberty.org/"
     },
     "1197107": {
@@ -9174,8 +9186,8 @@
       "name": "THE ROXI FOUNDATION",
       "status": "Registered",
       "removedOn": null,
-      "reporting": "New",
-      "lastAccounts": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2026-03-01",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,

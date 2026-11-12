@@ -9370,5 +9370,11 @@
     "by": "automatic triage",
     "date": "2026-11-11",
     "reason": "offers support, advice, groups or activities"
+  },
+  "ccew:510506": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-12",
+    "reason": "the condition is what its description is about; offers support, advice, groups or activities; kept after reading the description (Claude (read the description), 18 Oct 2026)"
   }
 }
