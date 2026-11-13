@@ -1,20 +1,19 @@
 ---
 title: Candidates
-updated: 2026-11-12
+updated: 2026-11-13
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 508 possible organisations on 12 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 508 possible organisations on 13 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 141. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 12 Nov 2026
+## 🆕 New on 13 Nov 2026
 
-**Added to the directory automatically (1):** named for a condition, with a working website.
-- ✅ KENILWORTH HELPING HANDS CLUB (England): learning disability
+- Nothing was added automatically.
 
 - No new ones still settling.
 
