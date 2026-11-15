@@ -1,17 +1,17 @@
 ---
 title: Candidates
-updated: 2026-11-14
+updated: 2026-11-15
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 508 possible organisations on 14 Nov 2026, from the charity registers of all 4 nations.
-> **Named for a condition:** 141. The rest mention one in their description.
+> **Found:** 507 possible organisations on 15 Nov 2026, from the charity registers of all 4 nations.
+> **Named for a condition:** 140. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 14 Nov 2026
+## 🆕 New on 15 Nov 2026
 
 - Nothing was added automatically.
 
@@ -27,14 +27,14 @@ updated: 2026-11-14
 | Tourette syndrome | 0 | 0 | 0 | 2 |
 | Williams syndrome | 0 | 0 | 0 | 1 |
 | autism | 99 | 22 | 19 | 11 |
-| brain injury | 16 | 1 | 7 | 1 |
+| brain injury | 15 | 1 | 7 | 1 |
 | dyscalculia | 2 | 1 | 0 | 0 |
 | dyslexia | 24 | 6 | 2 | 0 |
 | dyspraxia (DCD) | 1 | 1 | 0 | 0 |
 | learning disability | 207 | 29 | 51 | 36 |
 | neurodiversity | 10 | 7 | 6 | 3 |
 | sensory processing | 1 | 0 | 0 | 0 |
-| **All** | **355** | **66** | **82** | **58** |
+| **All** | **354** | **66** | **82** | **58** |
 
 An organisation can count under more than one condition and more than one nation.
 
