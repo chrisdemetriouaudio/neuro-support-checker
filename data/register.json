@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-15",
+  "extractDate": "2026-11-16",
   "entries": {
     "205244": {
       "number": "205244",
@@ -2071,7 +2071,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -4536,6 +4536,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "cotswolddownssyndrome.org"
+    },
+    "1134552": {
+      "number": "1134552",
+      "name": "SUPPORT TRAINING ACTIVITIES AND RESPITE SERVICES",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2025-03-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "www.wiganstars.uk"
     },
     "1135718": {
       "number": "1135718",
@@ -8748,6 +8760,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "www.voicesofaphasia.com"
+    },
+    "1204656": {
+      "number": "1204656",
+      "name": "AL IMRAN CENTRE FOR AUTISM AND CANCER",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2025-01-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "www.alimrancharity.org.uk"
     },
     "1204878": {
       "number": "1204878",
