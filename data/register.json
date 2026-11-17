@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-16",
+  "extractDate": "2026-11-17",
   "entries": {
     "205244": {
       "number": "205244",
@@ -91,7 +91,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-09-30",
+      "lastAccounts": "2026-09-30",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -451,7 +451,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -919,7 +919,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -4303,7 +4303,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-08-31",
+      "lastAccounts": "2026-08-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -4435,7 +4435,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -4572,6 +4572,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "www.bathgatewayoutandabout.co.uk"
+    },
+    "1135833": {
+      "number": "1135833",
+      "name": "CLACTON AND DISTRICT OCCUPATIONAL WORKSHOPS",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received Late",
+      "lastAccounts": "2025-12-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "https://sites.google.com/view/cadows/home"
     },
     "1135891": {
       "number": "1135891",
@@ -5268,6 +5280,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "http://www.sthautismsupport.org.uk"
+    },
+    "1151708": {
+      "number": "1151708",
+      "name": "HEADWAY LINCOLNSHIRE",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2026-06-30",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "www.headway-lincolnshire.org.uk"
     },
     "1151727": {
       "number": "1151727",

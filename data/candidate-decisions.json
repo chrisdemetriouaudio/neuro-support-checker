@@ -9388,5 +9388,17 @@
     "by": "automatic triage",
     "date": "2026-11-16",
     "reason": "the condition is what its description is about; offers support, advice, groups or activities; kept after reading the description (Claude (read the description), 18 Oct 2026)"
+  },
+  "ccew:1151708": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-17",
+    "reason": "named for brain injury; the condition is what its description is about; offers support, advice, groups or activities"
+  },
+  "ccew:1135833": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-17",
+    "reason": "the condition is what its description is about; offers support, advice, groups or activities"
   }
 }
