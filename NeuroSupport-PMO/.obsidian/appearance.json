@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "neurosupport-readable"
+    "neurosupport-readable",
+    "project-name"
   ]
 }
