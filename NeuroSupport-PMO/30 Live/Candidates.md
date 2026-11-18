@@ -1,21 +1,19 @@
 ---
 title: Candidates
-updated: 2026-11-17
+updated: 2026-11-18
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 504 possible organisations on 17 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 504 possible organisations on 18 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 138. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 17 Nov 2026
+## 🆕 New on 18 Nov 2026
 
-**Added to the directory automatically (2):** named for a condition, with a working website.
-- ✅ HEADWAY LINCOLNSHIRE (England): brain injury
-- ✅ CLACTON AND DISTRICT OCCUPATIONAL WORKSHOPS (England): learning disability
+- Nothing was added automatically.
 
 - No new ones still settling.
 
