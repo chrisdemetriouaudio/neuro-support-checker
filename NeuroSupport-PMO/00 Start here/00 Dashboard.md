@@ -14,15 +14,15 @@ updated: 2026-10-18
 
 <!-- live:start -->
 > [!info] Live (updated by the daily check)
-> **Last check:** 18 Nov 2026.
-> **To review:** 26. See [[Live status]].
-> **Fine:** 886 · **Closed:** 4 · **Average score:** 98 out of 100
+> **Last check:** 19 Nov 2026.
+> **To review:** 24. See [[Live status]].
+> **Fine:** 889 · **Closed:** 4 · **Average score:** 98 out of 100
 <!-- live:end -->
 
 <!-- candidates:start -->
 > [!info] New organisations (decided automatically every morning)
-> **18 Nov 2026:** added 0 · turned away 0 · parked 11.
-> **Still settling:** 0 (websites being retried, or found in the last 7 days) · **Parked in total:** 186. Nothing here needs you.
+> **19 Nov 2026:** added 1 · turned away 0 · parked 11.
+> **Still settling:** 0 (websites being retried, or found in the last 7 days) · **Parked in total:** 184. Nothing here needs you.
 <!-- candidates:end -->
 
 ## 👉 Your actions

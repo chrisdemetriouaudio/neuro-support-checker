@@ -9400,5 +9400,11 @@
     "by": "automatic triage",
     "date": "2026-11-17",
     "reason": "the condition is what its description is about; offers support, advice, groups or activities"
+  },
+  "ccew:1012070": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-19",
+    "reason": "named for dyslexia; the condition is what its description is about; offers support, advice, groups or activities"
   }
 }

@@ -1,19 +1,20 @@
 ---
 title: Candidates
-updated: 2026-11-18
+updated: 2026-11-19
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 504 possible organisations on 18 Nov 2026, from the charity registers of all 4 nations.
-> **Named for a condition:** 138. The rest mention one in their description.
+> **Found:** 469 possible organisations on 19 Nov 2026, from the charity registers of all 4 nations.
+> **Named for a condition:** 137. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 18 Nov 2026
+## 🆕 New on 19 Nov 2026
 
-- Nothing was added automatically.
+**Added to the directory automatically (1):** named for a condition, with a working website.
+- ✅ NORTH WARWICKSHIRE & COVENTRY DYSLEXIA ASSOCIATION (England): dyslexia
 
 - No new ones still settling.
 
@@ -29,12 +30,12 @@ updated: 2026-11-18
 | autism | 98 | 22 | 19 | 11 |
 | brain injury | 14 | 1 | 7 | 1 |
 | dyscalculia | 2 | 1 | 0 | 0 |
-| dyslexia | 24 | 6 | 2 | 0 |
+| dyslexia | 23 | 6 | 2 | 0 |
 | dyspraxia (DCD) | 1 | 1 | 0 | 0 |
-| learning disability | 206 | 29 | 51 | 36 |
+| learning disability | 206 | 29 | 51 | 2 |
 | neurodiversity | 10 | 7 | 6 | 3 |
 | sensory processing | 1 | 0 | 0 | 0 |
-| **All** | **351** | **66** | **82** | **58** |
+| **All** | **350** | **66** | **82** | **24** |
 
 An organisation can count under more than one condition and more than one nation.
 
