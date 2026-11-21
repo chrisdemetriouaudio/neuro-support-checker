@@ -1,22 +1,21 @@
 ---
 title: Candidates
-updated: 2026-11-20
+updated: 2026-11-21
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 470 possible organisations on 20 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 470 possible organisations on 21 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 137. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 20 Nov 2026
+## 🆕 New on 21 Nov 2026
 
 - Nothing was added automatically.
 
-**New and still settling (1):** decided within 7 days. You can look at them in Admin → Review candidates, but you do not have to.
-- ⏳ THE MIDDLETON FOUNDATION (England, Wales): autism, learning disability
+- No new ones still settling.
 
 ## 🗺️ By nation and condition
 
