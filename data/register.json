@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-22",
+  "extractDate": "2026-11-23",
   "entries": {
     "205244": {
       "number": "205244",
@@ -7260,6 +7260,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "starlingcio.org"
+    },
+    "1182555": {
+      "number": "1182555",
+      "name": "BOLTON SMILEY FACES",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2026-04-05",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "boltonsmileyfaces.org.uk"
     },
     "1182603": {
       "number": "1182603",

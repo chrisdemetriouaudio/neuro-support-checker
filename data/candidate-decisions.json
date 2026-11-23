@@ -9406,5 +9406,11 @@
     "by": "automatic triage",
     "date": "2026-11-19",
     "reason": "named for dyslexia; the condition is what its description is about; offers support, advice, groups or activities"
+  },
+  "ccew:1182555": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-23",
+    "reason": "the condition is what its description is about; offers support, advice, groups or activities; kept after reading the description (Claude (read the description), 18 Oct 2026)"
   }
 }
