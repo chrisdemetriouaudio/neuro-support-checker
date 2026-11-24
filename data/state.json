@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:16:12.033Z",
+  "updated": "2026-11-24T17:51:10.094Z",
   "orgs": {
     "ambitious-about-autism": {
       "status": "Looks active",
@@ -2095,7 +2095,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -2164,21 +2164,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://nationalautistictaskforce.org.uk/",
-          "ms": 3528,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "National Autistic Taskforce &#8211; Bolder Voices, Better Practice",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -2363,6 +2348,21 @@
           "httpStatus": 200,
           "finalUrl": "https://nationalautistictaskforce.org.uk/",
           "ms": 4678,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "National Autistic Taskforce &#8211; Bolder Voices, Better Practice",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://nationalautistictaskforce.org.uk/",
+          "ms": 2731,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -3008,7 +3008,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "red",
-          "detail": "Charity 1120898 is in administration (register of 23 Nov 2026)",
+          "detail": "Charity 1120898 is in administration (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -4195,7 +4195,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -4264,21 +4264,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.bdadyslexia.org.uk/",
-          "ms": 1298,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "British Dyslexia Association",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -4465,6 +4450,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.bdadyslexia.org.uk/",
           "ms": 1935,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "British Dyslexia Association",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.bdadyslexia.org.uk/",
+          "ms": 2044,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -4821,7 +4821,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "red",
-          "detail": "Charity 1058352 is marked insolvent (register of 23 Nov 2026)",
+          "detail": "Charity 1058352 is marked insolvent (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -14685,7 +14685,7 @@
         "Proof: Removed from the charity register on 19 Nov 2026"
       ],
       "since": "2026-11-20",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": true,
       "score": 0,
       "signals": [
@@ -14755,21 +14755,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.adhdliberty.org/",
-          "ms": 1340,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "ADHD LIBERTY - ADHD Liberty Worldwide",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -14956,6 +14941,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.adhdliberty.org/",
           "ms": 835,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "ADHD LIBERTY - ADHD Liberty Worldwide",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.adhdliberty.org/",
+          "ms": 1163,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -16412,7 +16412,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -16481,21 +16481,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.asperger.org.uk/",
-          "ms": 2176,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Asperger East Anglia &#8211; working toward and supporting independence",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -16682,6 +16667,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.asperger.org.uk/",
           "ms": 1420,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Asperger East Anglia &#8211; working toward and supporting independence",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.asperger.org.uk/",
+          "ms": 3121,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -18424,7 +18424,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -18493,21 +18493,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.kingwood.org.uk/",
-          "ms": 1068,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Homepage - Autism at Kingwood",
-          "etag": null,
-          "lastModified": "Sun, 25 Oct 2026 09:05:35 GMT"
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -18702,6 +18687,21 @@
           "title": "Homepage - Autism at Kingwood",
           "etag": null,
           "lastModified": "Sat, 21 Nov 2026 10:33:07 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.kingwood.org.uk/",
+          "ms": 2477,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Homepage - Autism at Kingwood",
+          "etag": null,
+          "lastModified": "Tue, 24 Nov 2026 12:45:14 GMT"
         }
       ]
     },
@@ -18763,7 +18763,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -18994,7 +18994,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-11",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -19063,21 +19063,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.autismbedfordshire.net/",
-          "ms": 8998,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Autism Bedfordshire",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -19264,6 +19249,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.autismbedfordshire.net/",
           "ms": 4025,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Autism Bedfordshire",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.autismbedfordshire.net/",
+          "ms": 14789,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -20480,7 +20480,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -20711,7 +20711,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-15",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 78,
       "signals": [
@@ -20765,7 +20765,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -20780,21 +20780,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://autismuk.com/",
-          "ms": 4840,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - Autism independent UK",
-          "etag": null,
-          "lastModified": "Mon, 09 Nov 2026 08:04:13 GMT"
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -20985,6 +20970,21 @@
           "title": "Home - Autism independent UK",
           "etag": null,
           "lastModified": "Mon, 23 Nov 2026 06:07:21 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://autismuk.com/",
+          "ms": 3130,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Autism independent UK",
+          "etag": null,
+          "lastModified": "Tue, 24 Nov 2026 06:13:15 GMT"
         }
       ]
     },
@@ -21578,7 +21578,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-20",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 69,
       "signals": [
@@ -21632,7 +21632,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -21647,19 +21647,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 215,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -21822,6 +21809,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 542,
+          "error": "Network",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 463,
           "error": "Network",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -41448,7 +41448,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -42018,7 +42018,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -43392,10 +43392,10 @@
     "grooops-dyslexia-aware-counselling": {
       "status": "Likely closed",
       "reasons": [
-        "Proof: Charity 1168098 is dissolved (register of 23 Nov 2026)"
+        "Proof: Charity 1168098 is dissolved (register of 24 Nov 2026)"
       ],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": true,
       "score": 0,
       "signals": [
@@ -43450,7 +43450,7 @@
           "weight": 25,
           "level": "red",
           "provesClosure": true,
-          "detail": "Charity 1168098 is dissolved (register of 23 Nov 2026)",
+          "detail": "Charity 1168098 is dissolved (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -43465,21 +43465,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.grooops.org/",
-          "ms": 685,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Dyslexia Aware Counselling in North London | Coaching, Training and Support | GroOops",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -43666,6 +43651,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.grooops.org/",
           "ms": 473,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Dyslexia Aware Counselling in North London | Coaching, Training and Support | GroOops",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.grooops.org/",
+          "ms": 434,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -45158,7 +45158,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -46833,7 +46833,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 86,
       "signals": [
@@ -46887,7 +46887,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -46902,21 +46902,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.headwaycornwall.org.uk/",
-          "ms": 1730,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Headway Cornwall &#8211; Supporting people with acquired brain injuries across Cornwall",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -47101,6 +47086,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.headwaycornwall.org.uk/",
           "ms": 1757,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Headway Cornwall &#8211; Supporting people with acquired brain injuries across Cornwall",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.headwaycornwall.org.uk/",
+          "ms": 1422,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -48255,10 +48255,10 @@
     "headway-devon": {
       "status": "Needs a check",
       "reasons": [
-        "Website down on 7 of the last 7 checks"
+        "Website down on 6 of the last 7 checks"
       ],
       "since": "2026-10-29",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -48277,7 +48277,7 @@
           "weight": 15,
           "strength": "weak",
           "level": "red",
-          "detail": "Website down on 7 of the last 7 checks",
+          "detail": "Website down on 6 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -48327,19 +48327,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 10773,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -48508,6 +48495,21 @@
           "parkedPhrases": [],
           "movedTo": null,
           "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://headwaydevon.org.uk/",
+          "ms": 2499,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Headway Devon",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -50811,7 +50813,7 @@
         "Web address not found on 7 of the last 7 checks"
       ],
       "since": "2026-10-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 69,
       "signals": [
@@ -50865,7 +50867,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -50880,19 +50882,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 116,
-          "error": "DNS",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -51055,6 +51044,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 87,
+          "error": "DNS",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 72,
           "error": "DNS",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -51353,7 +51355,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -51422,21 +51424,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://headwaynorthstaffs.org/",
-          "ms": 1347,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Headway NS &#8211; Improving life after brain injury in North Staffordshire",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": false,
@@ -51621,6 +51608,21 @@
           "httpStatus": 200,
           "finalUrl": "https://headwaynorthstaffs.org/",
           "ms": 1482,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Headway NS &#8211; Improving life after brain injury in North Staffordshire",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://headwaynorthstaffs.org/",
+          "ms": 1222,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -57717,7 +57719,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -58811,7 +58813,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -58880,19 +58882,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-27",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 4366,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-10-28",
           "reachable": true,
@@ -59090,6 +59079,21 @@
           "movedTo": null,
           "title": null,
           "etag": "W/\"4a18518e9dd9e8f907b365078a65ddb9\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.hbtg.org.uk/",
+          "ms": 377,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": "W/\"0b86b4973abdb52ea67f62e31661f562\"",
           "lastModified": null
         }
       ]
@@ -60297,7 +60301,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -61675,7 +61679,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -61694,7 +61698,7 @@
           "weight": 15,
           "strength": "weak",
           "level": "amber",
-          "detail": "Website down on 1 of the last 7 checks",
+          "detail": "Website down on 2 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -61744,21 +61748,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.leedsautism.org.uk/",
-          "ms": 79,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Leeds Autism Services",
-          "etag": null,
-          "lastModified": "Sun, 25 Oct 2026 11:34:52 GMT"
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -61945,6 +61934,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 322,
+          "error": "TLS",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 203,
           "error": "TLS",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -63399,7 +63401,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -63468,21 +63470,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://adhdlincs.org/",
-          "ms": 11465,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "ADHD Lincs - Home | ADHD Support",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": false,
@@ -63667,6 +63654,21 @@
           "httpStatus": 200,
           "finalUrl": "https://adhdlincs.org/",
           "ms": 5632,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "ADHD Lincs - Home | ADHD Support",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://adhdlincs.org/",
+          "ms": 12315,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -71160,7 +71162,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-11-06",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -71229,19 +71231,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 341,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -71404,6 +71393,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 334,
+          "error": "Network",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 3771,
           "error": "Network",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -76067,7 +76069,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -76604,7 +76606,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-26",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -76673,19 +76675,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-01",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 20187,
-          "error": "Timeout",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-02",
           "reachable": true,
@@ -76870,6 +76859,21 @@
           "httpStatus": 200,
           "finalUrl": "https://scld.org.uk/",
           "ms": 3156,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "The Scottish Commission for People with Learning Disabilities - SCLD",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://scld.org.uk/",
+          "ms": 3819,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -80901,7 +80905,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-11-13",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -80970,21 +80974,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "http://www.sthautismsupport.org.uk/",
-          "ms": 485,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "sthautismsupport.org.uk",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -81147,6 +81136,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 361,
+          "error": "Network",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 603,
           "error": "Network",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -86615,7 +86617,7 @@
         "Proof: Removed from the charity register on 11 Nov 2026"
       ],
       "since": "2026-11-12",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": true,
       "score": 0,
       "signals": [
@@ -86685,21 +86687,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-05",
-          "reachable": true,
-          "httpStatus": 403,
-          "finalUrl": "https://www.birdcharity.org.uk/",
-          "ms": 224,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -86889,6 +86876,22 @@
           "httpStatus": 304,
           "finalUrl": "https://birdcharity.org.uk/",
           "ms": 750,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Top Online Casinos - Roulette Sites for UK Players",
+          "etag": "\"6afe11e8-f358\"",
+          "lastModified": "Wed, 18 Nov 2026 21:00:24 GMT",
+          "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://birdcharity.org.uk/",
+          "ms": 1618,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -88390,7 +88393,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity 265062, last accounts to 31 Mar 2025",
+          "detail": "Registered charity 265062, last accounts to 31 Mar 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -94930,7 +94933,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -94999,21 +95002,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://downsyndrome-wakefield.co.uk/",
-          "ms": 8988,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Wakefield and District Down&#039;s Syndrome Support Group |",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": false,
@@ -95198,6 +95186,21 @@
           "httpStatus": 200,
           "finalUrl": "https://downsyndrome-wakefield.co.uk/",
           "ms": 2780,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Wakefield and District Down&#039;s Syndrome Support Group |",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://downsyndrome-wakefield.co.uk/",
+          "ms": 6312,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -96372,7 +96375,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -96441,21 +96444,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-02",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://williams-syndrome.org.uk/",
-          "ms": 4406,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - Williams Syndrome Foundation",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-05",
           "reachable": true,
@@ -96638,6 +96626,21 @@
           "httpStatus": 200,
           "finalUrl": "https://williams-syndrome.org.uk/",
           "ms": 5387,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Williams Syndrome Foundation",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://williams-syndrome.org.uk/",
+          "ms": 5776,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -96941,7 +96944,7 @@
         "Website now goes to zigzagautismservices.com"
       ],
       "since": "2026-10-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 94,
       "signals": [
@@ -97010,21 +97013,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://zigzagautismservices.com/",
-          "ms": 1691,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": "zigzagautismservices.com",
-          "title": "ZigZag Autism Services &#8211; Coming Soon",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -97211,6 +97199,21 @@
           "httpStatus": 200,
           "finalUrl": "https://zigzagautismservices.com/",
           "ms": 2037,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": "zigzagautismservices.com",
+          "title": "ZigZag Autism Services &#8211; Coming Soon",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://zigzagautismservices.com/",
+          "ms": 1269,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -98659,7 +98662,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -98728,21 +98731,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.4eden.co.uk/",
-          "ms": 6389,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home | 4Eden",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -98929,6 +98917,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.4eden.co.uk/",
           "ms": 8877,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home | 4Eden",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.4eden.co.uk/",
+          "ms": 2158,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -100672,7 +100675,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -100741,21 +100744,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://actionspace.org/",
-          "ms": 5333,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Homepage - Actionspace",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -100940,6 +100928,21 @@
           "httpStatus": 200,
           "finalUrl": "https://actionspace.org/",
           "ms": 4275,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Homepage - Actionspace",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://actionspace.org/",
+          "ms": 4929,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -102437,7 +102440,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity SC026064, last accounts to 31 Mar 2025",
+          "detail": "Registered charity SC026064, last accounts to 31 Mar 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -103810,7 +103813,7 @@
         "Website down on 3 of the last 7 checks"
       ],
       "since": "2026-11-15",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -103879,21 +103882,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://alwaysbeeyou.uk/",
-          "ms": 6976,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Always Bee You &#8211; Supporting adults with learning disabilities to achieve their potential",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -104074,6 +104062,21 @@
           "title": "Always Bee You &#8211; Supporting adults with learning disabilities to achieve their potential",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://alwaysbeeyou.uk/",
+          "ms": 14379,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Always Bee You &#8211; Supporting adults with learning disabilities to achieve their potential",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -104081,7 +104084,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-28",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -104150,21 +104153,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-31",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://angelssupportgroup.org.uk/",
-          "ms": 8207,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - Angels Support Group",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-01",
           "reachable": true,
@@ -104351,6 +104339,21 @@
           "httpStatus": 200,
           "finalUrl": "https://angelssupportgroup.org.uk/",
           "ms": 6112,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Angels Support Group",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://angelssupportgroup.org.uk/",
+          "ms": 11899,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -107527,7 +107530,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -107596,21 +107599,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://asist.co.uk/",
-          "ms": 3222,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "ASIST",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -107795,6 +107783,21 @@
           "httpStatus": 200,
           "finalUrl": "https://asist.co.uk/",
           "ms": 3820,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "ASIST",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://asist.co.uk/",
+          "ms": 5421,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -108382,7 +108385,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-14",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -108451,21 +108454,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.audhduk.org/",
-          "ms": 466,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "AuDHD UK | Empower Neurodivergent Lives – Get Support Now",
-          "etag": "W/\"03d2b32a39f55f0960d5ee3a269a5672\"",
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -108661,6 +108649,21 @@
           "movedTo": null,
           "title": "AuDHD UK | Empower Neurodivergent Lives – Get Support Now",
           "etag": "W/\"3ef322a5319a81c4bd347d937e3cd656--gzip\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.audhduk.org/",
+          "ms": 407,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "AuDHD UK | Empower Neurodivergent Lives – Get Support Now",
+          "etag": "W/\"728919e85f1fb50e8a08058bdc2aa384--gzip\"",
           "lastModified": null
         }
       ]
@@ -111534,10 +111537,10 @@
     "bemix": {
       "status": "Likely closed",
       "reasons": [
-        "Proof: Charity 1205783 is in administration (register of 23 Nov 2026)"
+        "Proof: Charity 1205783 is in administration (register of 24 Nov 2026)"
       ],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 40,
       "signals": [
@@ -111591,7 +111594,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "red",
-          "detail": "Charity 1205783 is in administration (register of 23 Nov 2026)",
+          "detail": "Charity 1205783 is in administration (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -111606,21 +111609,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.bemix.org/",
-          "ms": 2506,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "bemix",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -111807,6 +111795,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.bemix.org/",
           "ms": 1292,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "bemix",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.bemix.org/",
+          "ms": 402,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -118413,7 +118416,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -118482,21 +118485,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.cardiffchameleons.co.uk/community/cardiff-chameleons-14907/home/",
-          "ms": 14194,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Cardiff Chameleons, Cardiff",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -118681,6 +118669,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.cardiffchameleons.co.uk/community/cardiff-chameleons-14907/home/",
           "ms": 1804,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Cardiff Chameleons, Cardiff",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.cardiffchameleons.co.uk/community/cardiff-chameleons-14907/home/",
+          "ms": 2157,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -124787,7 +124790,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -125321,7 +125324,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -125390,21 +125393,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 418,
-          "finalUrl": "https://www.communityconnex.co.uk/",
-          "ms": 667,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": "\"6ad722c3-34\"",
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -125591,6 +125579,21 @@
           "httpStatus": 418,
           "finalUrl": "https://www.communityconnex.co.uk/",
           "ms": 474,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": "\"6af55ed9-34\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": 418,
+          "finalUrl": "https://www.communityconnex.co.uk/",
+          "ms": 623,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -127629,7 +127632,7 @@
         "Website now goes to topcasinosnogam.com"
       ],
       "since": "2026-11-20",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 81,
       "signals": [
@@ -127683,7 +127686,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -127698,21 +127701,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-27",
-          "reachable": true,
-          "httpStatus": 403,
-          "finalUrl": "https://www.cfpd.org.uk/",
-          "ms": 150,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-28",
           "reachable": true,
@@ -127899,6 +127887,21 @@
           "httpStatus": 200,
           "finalUrl": "https://topcasinosnogam.com/",
           "ms": 1703,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": "topcasinosnogam.com",
+          "title": "Non GamStop Casinos UK: Best Offshore Sites Compared",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://topcasinosnogam.com/",
+          "ms": 1942,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -128486,7 +128489,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-24",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 69,
       "signals": [
@@ -128540,7 +128543,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -128555,21 +128558,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 503,
-          "finalUrl": "https://www.croydonpeoplefirst.org.uk/",
-          "ms": 757,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": "\"2430c-454-52b4355587b4a\"",
-          "lastModified": "Mon, 08 Feb 2016 14:51:18 GMT"
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -128756,6 +128744,21 @@
           "httpStatus": 503,
           "finalUrl": "https://www.croydonpeoplefirst.org.uk/",
           "ms": 1065,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": "\"2430c-454-52b4355587b4a\"",
+          "lastModified": "Mon, 08 Feb 2016 14:51:18 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": 503,
+          "finalUrl": "https://www.croydonpeoplefirst.org.uk/",
+          "ms": 856,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -129341,7 +129344,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-15",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -129410,21 +129413,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://cureclcn4.org/",
-          "ms": 4115,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - Cure CLCN4",
-          "etag": "\"2455f8356fa90d5d23c71097bef54e96\"",
-          "lastModified": "Mon, 09 Nov 2026 16:27:57 GMT"
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -129619,6 +129607,21 @@
           "title": "Home - Cure CLCN4",
           "etag": "\"a12e3acd3b8f15024df23960ff966e66\"",
           "lastModified": "Mon, 23 Nov 2026 17:25:49 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://cureclcn4.org/",
+          "ms": 5859,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Cure CLCN4",
+          "etag": "\"e663dbbce8c03f84a4a669ee5788646d\"",
+          "lastModified": "Tue, 24 Nov 2026 17:51:27 GMT"
         }
       ]
     },
@@ -132483,7 +132486,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-11-07",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -132552,19 +132555,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 299,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -132733,6 +132723,19 @@
           "parkedPhrases": [],
           "movedTo": null,
           "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 162,
+          "error": "Network",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
         }
       ]
     },
@@ -132740,7 +132743,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -132809,21 +132812,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-31",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://localmencapdoncaster.co.uk/",
-          "ms": 1230,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Doncaster Mencap Society - Support for People With Learning Disabilties",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-01",
           "reachable": true,
@@ -133016,16 +133004,31 @@
           "title": "Doncaster Mencap Society - Support for People With Learning Disabilties",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://localmencapdoncaster.co.uk/",
+          "ms": 1462,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Doncaster Mencap Society - Support for People With Learning Disabilties",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
     "dopamine-dolls": {
       "status": "Needs a check",
       "reasons": [
-        "Website down on 4 of the last 7 checks"
+        "Website down on 3 of the last 7 checks"
       ],
       "since": "2026-10-20",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -133044,7 +133047,7 @@
           "weight": 15,
           "strength": "weak",
           "level": "red",
-          "detail": "Website down on 4 of the last 7 checks",
+          "detail": "Website down on 3 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -133094,21 +133097,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 404,
-          "finalUrl": "https://www.dopaminedolls.co.uk/",
-          "ms": 139,
-          "error": null,
-          "robotsBlocked": true,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -133303,6 +133291,21 @@
           "movedTo": null,
           "title": "Dopamine Dolls | Join Our Community",
           "etag": "W/\"344f25c66dde89ab7484f8d23f8ae661\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.dopaminedolls.co.uk/",
+          "ms": 263,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Dopamine Dolls | Join Our Community",
+          "etag": "W/\"1131dabf7a235d403393351e6f18ddaf\"",
           "lastModified": null
         }
       ]
@@ -136181,7 +136184,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -136250,21 +136253,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://birdaid.co.uk/",
-          "ms": 1536,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Bird Aid | Time to Thrive Time to Grow",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -136451,6 +136439,21 @@
           "httpStatus": 200,
           "finalUrl": "https://birdaid.co.uk/",
           "ms": 1814,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Bird Aid | Time to Thrive Time to Grow",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://birdaid.co.uk/",
+          "ms": 1930,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -138196,7 +138199,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -138265,21 +138268,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.enableglasgow.org.uk/",
-          "ms": 3689,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Enable Glasgow",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -138466,6 +138454,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.enableglasgow.org.uk/",
           "ms": 7206,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Enable Glasgow",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.enableglasgow.org.uk/",
+          "ms": 2753,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -139639,7 +139642,7 @@
         "Website now goes to google.com"
       ],
       "since": "2026-11-23",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 94,
       "signals": [
@@ -139708,21 +139711,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 429,
-          "finalUrl": "https://www.google.com/sorry/index?continue=https://www.exetermencap.org.uk/&q=EgRA7KlgGIrpx9cGIi0hyqOwRr8hwkFKBsuXqrraHl5FCyXYWXuyiwOaEoY0wGWTC8dzrN9GvTV6sQ0yAnJSWgFDYNLZ2_zD36rDcA",
-          "ms": 744,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": "google.com",
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -139910,6 +139898,21 @@
           "httpStatus": 429,
           "finalUrl": "https://www.google.com/sorry/index?continue=https://www.exetermencap.org.uk/&q=EgQzOZs8GL2GktgGIi1lSUr-OZFhZ7eChgNnpKps5M39WKyfPp0KvS9b2yZB6gEkO8OrtVmk6tINwsoyAnJSWgFDYJOfpqGMwaj8vwE",
           "ms": 726,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": "google.com",
+          "title": null,
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 429,
+          "finalUrl": "http://www.google.com/sorry/index?continue=http://www.exetermencap.org.uk/&q=EgQs5JNxGJudl9gGIi2_6PEBXzfMgOfauG54Vn8-bDfyicWDVDXk8dJhIXJnGj0RwIod4IdrYf1Z2YIyAnJSWgFDYL_c7Zalj6CQkAE",
+          "ms": 535,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -145102,7 +145105,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -145171,21 +145174,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-07",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://grampianopportunities.org.uk/",
-          "ms": 1282,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home | Grampian Opportunities",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -145372,6 +145360,21 @@
           "httpStatus": 200,
           "finalUrl": "https://grampianopportunities.org.uk/",
           "ms": 1816,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home | Grampian Opportunities",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://grampianopportunities.org.uk/",
+          "ms": 1988,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -145672,7 +145675,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-13",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -145741,19 +145744,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 520,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -145936,6 +145926,21 @@
           "httpStatus": 200,
           "finalUrl": "https://greenroutes.org.uk/",
           "ms": 1371,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Green Routes &#8211; providing employability skills and confidence-building support for people with additional support needs",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://greenroutes.org.uk/",
+          "ms": 1570,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -149170,7 +149175,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -154863,7 +154868,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-16",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -154932,21 +154937,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 500,
-          "finalUrl": "https://www.inspire-nottingham.org.uk/",
-          "ms": 4149,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -155139,6 +155129,21 @@
           "title": "Home Page &#8211; Inspire Nottingham",
           "etag": null,
           "lastModified": "Mon, 23 Nov 2026 06:41:23 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.inspire-nottingham.org.uk/",
+          "ms": 1247,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home Page &#8211; Inspire Nottingham",
+          "etag": null,
+          "lastModified": "Tue, 24 Nov 2026 06:41:18 GMT"
         }
       ]
     },
@@ -158872,7 +158877,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -158941,22 +158946,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-30",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://jgfc.org.uk/",
-          "ms": 994,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Learning Disabilities Support Derbyshire | Just Good Friends Club",
-          "etag": "57f0b0568a7d1e87ece7874a23487046",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-10-31",
           "reachable": true,
@@ -159151,6 +159140,22 @@
           "httpStatus": 304,
           "finalUrl": "https://jgfc.org.uk/",
           "ms": 289,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Learning Disabilities Support Derbyshire | Just Good Friends Club",
+          "etag": "57f0b0568a7d1e87ece7874a23487046",
+          "lastModified": null,
+          "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://jgfc.org.uk/",
+          "ms": 130,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -160372,7 +160377,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -161477,7 +161482,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-23",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -161546,19 +161551,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 399,
-          "error": "TLS",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -161721,6 +161713,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 1505,
+          "error": "TLS",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 456,
           "error": "TLS",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -165761,7 +165766,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -165830,21 +165835,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.lilyannes.co.uk/",
-          "ms": 1757,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "LilyAnne’s Wellbeing | Autism, ADHD &amp; Mental Health Support",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -166029,6 +166019,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.lilyannes.co.uk/",
           "ms": 1081,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "LilyAnne’s Wellbeing | Autism, ADHD &amp; Mental Health Support",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.lilyannes.co.uk/",
+          "ms": 897,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -166959,7 +166964,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -173843,7 +173848,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -173912,21 +173917,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 418,
-          "finalUrl": "https://www.mencapmon.com/",
-          "ms": 597,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": "\"6ad722c3-34\"",
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -174121,6 +174111,21 @@
           "title": null,
           "etag": "\"6af55ed9-34\"",
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": 418,
+          "finalUrl": "https://www.mencapmon.com/",
+          "ms": 632,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": "\"6af55ed9-34\"",
+          "lastModified": null
         }
       ]
     },
@@ -174128,7 +174133,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-08",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -174197,21 +174202,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-07",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.mertonmencap.org.uk/",
-          "ms": 4511,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Support for people with a learning disability in the London Borough of Merton - Merton Mencap",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -174398,6 +174388,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.mertonmencap.org.uk/",
           "ms": 808,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Support for people with a learning disability in the London Borough of Merton - Merton Mencap",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.mertonmencap.org.uk/",
+          "ms": 9988,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -181588,7 +181593,7 @@
         "Web address not found on 7 of the last 7 checks"
       ],
       "since": "2026-11-07",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -181657,19 +181662,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 38,
-          "error": "DNS",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -181832,6 +181824,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 37,
+          "error": "DNS",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 26,
           "error": "DNS",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -182130,7 +182135,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-08",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 86,
       "signals": [
@@ -182184,7 +182189,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -182199,21 +182204,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-07",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://ojscare.org/",
-          "ms": 11215,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "OJs Care",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -182400,6 +182390,21 @@
           "httpStatus": 200,
           "finalUrl": "https://ojscare.org/",
           "ms": 15070,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - OJ’s Care",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://ojscare.org/",
+          "ms": 15577,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -184138,7 +184143,7 @@
         "Website down on 3 of the last 7 checks"
       ],
       "since": "2026-11-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -184207,22 +184212,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-27",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://openstorytellers.org.uk/",
-          "ms": 11323,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - openstorytellers",
-          "etag": "\"71-1792725759;br\"",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-10-28",
           "reachable": true,
@@ -184417,6 +184406,21 @@
           "movedTo": null,
           "title": "Home - openstorytellers",
           "etag": "\"37-1795457714;br\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://openstorytellers.org.uk/",
+          "ms": 6280,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - openstorytellers",
+          "etag": "\"146-1795521869;br\"",
           "lastModified": null
         }
       ]
@@ -184712,7 +184716,7 @@
         "Web address not found on 7 of the last 7 checks"
       ],
       "since": "2026-11-13",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -184781,21 +184785,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-08",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.ourbarn.org.uk/offline",
-          "ms": 1097,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "We are currently working on our website",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -184958,6 +184947,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 274,
+          "error": "DNS",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 213,
           "error": "DNS",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -189882,7 +189884,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Overdue\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Overdue\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -194430,7 +194432,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -194499,21 +194501,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://project21uk.com/",
-          "ms": 1654,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Project 21 UK &#8211; Charity supporting people with Down&#039;s Syndrome in East Anglia",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": true,
@@ -194698,6 +194685,21 @@
           "httpStatus": 200,
           "finalUrl": "https://project21uk.com/",
           "ms": 1934,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Project 21 UK &#8211; Charity supporting people with Down&#039;s Syndrome in East Anglia",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://project21uk.com/",
+          "ms": 3345,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -195000,7 +195002,7 @@
         "Website now goes to pulpfrictioncio.org.uk"
       ],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 94,
       "signals": [
@@ -195069,21 +195071,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.pulpfrictioncio.org.uk/",
-          "ms": 2740,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": "pulpfrictioncio.org.uk",
-          "title": "Workplace Skills for Learning Disabled and Autistic People - Pulp Friction Charity CIO",
-          "etag": "\"844-1794240479;br\"",
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -195277,6 +195264,21 @@
           "movedTo": "pulpfrictioncio.org.uk",
           "title": "Workplace Skills for Learning Disabled and Autistic People - Pulp Friction Charity CIO",
           "etag": "\"175-1795436983;br\"",
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.pulpfrictioncio.org.uk/",
+          "ms": 5097,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": "pulpfrictioncio.org.uk",
+          "title": "Workplace Skills for Learning Disabled and Autistic People - Pulp Friction Charity CIO",
+          "etag": "\"419-1795542691;br\"",
           "lastModified": null
         }
       ]
@@ -200733,10 +200735,10 @@
     "rotherham-advocacy-partnerships": {
       "status": "Likely closed",
       "reasons": [
-        "Proof: Charity 1080025 is marked insolvent (register of 23 Nov 2026)"
+        "Proof: Charity 1080025 is marked insolvent (register of 24 Nov 2026)"
       ],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 40,
       "signals": [
@@ -200790,7 +200792,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "red",
-          "detail": "Charity 1080025 is marked insolvent (register of 23 Nov 2026)",
+          "detail": "Charity 1080025 is marked insolvent (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -200805,21 +200807,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://rotherhamadvocacy.org.uk/",
-          "ms": 1092,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "SpinChester Casino UK: Features, Games, Bonuses & Mobile",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -201006,6 +200993,21 @@
           "httpStatus": 200,
           "finalUrl": "https://rotherhamadvocacy.org.uk/",
           "ms": 794,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "SpinChester Casino UK: Features, Games, Bonuses & Mobile",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://rotherhamadvocacy.org.uk/",
+          "ms": 1007,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -202168,7 +202170,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-16",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -202237,19 +202239,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 1624,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -202443,6 +202432,22 @@
           "httpStatus": 304,
           "finalUrl": "https://sandhurstrda.org.uk/index.html",
           "ms": 1736,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "SANDHURST RIDING FOR THE DISABLED - Home",
+          "etag": "\"5bd6-65c6ec2a4c480\"",
+          "lastModified": "Sun, 27 Sep 2026 03:44:02 GMT",
+          "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://sandhurstrda.org.uk/index.html",
+          "ms": 1681,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -204483,7 +204488,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-24",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -204552,19 +204557,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 10630,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -204727,6 +204719,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 330,
+          "error": "Network",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 337,
           "error": "Network",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -207930,7 +207935,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity 1102297, last accounts to 31 Mar 2025",
+          "detail": "Registered charity 1102297, last accounts to 31 Mar 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -213602,10 +213607,10 @@
     "st-stephen-s-neighbourhood-centre-ltd": {
       "status": "Needs a check",
       "reasons": [
-        "Website down on 4 of the last 7 checks"
+        "Website down on 5 of the last 7 checks"
       ],
       "since": "2026-11-22",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -213624,7 +213629,7 @@
           "weight": 15,
           "strength": "weak",
           "level": "red",
-          "detail": "Website down on 4 of the last 7 checks",
+          "detail": "Website down on 5 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -213674,21 +213679,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-27",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://ssnc.org.uk/",
-          "ms": 2345,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "SSNC &#8211; Supporting the Greatfield Community",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-28",
           "reachable": true,
@@ -213869,6 +213859,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 20320,
+          "error": "Timeout",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 20315,
           "error": "Timeout",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -226545,7 +226548,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity 1090549, last accounts to 31 Mar 2025",
+          "detail": "Registered charity 1090549, last accounts to 31 Mar 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -234526,7 +234529,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-30",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -234595,21 +234598,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-01",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.pendragon-ct.org/",
-          "ms": 821,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Multi-Sensory Centre - Pendragon Multi-Sensory Centre",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-02",
           "reachable": true,
@@ -234796,6 +234784,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.pendragon-ct.org/",
           "ms": 8812,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Multi-Sensory Centre - Pendragon Multi-Sensory Centre",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.pendragon-ct.org/",
+          "ms": 24705,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -235958,7 +235961,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -236027,22 +236030,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-27",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://theroxifoundation.co.uk/",
-          "ms": 600,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Neurodiversity Support in Swindon - The Roxi Foundation",
-          "etag": "2755feb6c88289aaba17d0a1995fccbd",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-10-28",
           "reachable": true,
@@ -236237,6 +236224,22 @@
           "httpStatus": 304,
           "finalUrl": "https://theroxifoundation.co.uk/",
           "ms": 335,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Neurodiversity Support in Swindon - The Roxi Foundation",
+          "etag": "2755feb6c88289aaba17d0a1995fccbd",
+          "lastModified": null,
+          "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://theroxifoundation.co.uk/",
+          "ms": 122,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -237689,7 +237692,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-08",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -237758,22 +237761,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-07",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://www.thespectrumplace.org.uk/",
-          "ms": 154,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "The Spectrum Place |A Fun alternative approach to learning| Autism &amp; Neurodiversity Hub",
-          "etag": "W/\"8746ba9ce4d4bba3dca2733b87bd176f\"",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -237975,6 +237962,21 @@
           "etag": "W/\"eab678245cc214ec3f392da657999b34\"",
           "lastModified": null,
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.thespectrumplace.org.uk/",
+          "ms": 1316,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "The Spectrum Place |A Fun alternative approach to learning| Autism &amp; Neurodiversity Hub",
+          "etag": "W/\"73104bb72993a041653091904d361843\"",
+          "lastModified": null
         }
       ]
     },
@@ -238841,7 +238843,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-19",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -238910,21 +238912,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.ttht.co.uk/",
-          "ms": 202,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "The Toby Henderson Trust | Autism charity providing advice &amp; support in Northumberland",
-          "etag": null,
-          "lastModified": "Mon, 09 Nov 2026 14:41:05 GMT"
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -239105,6 +239092,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.ttht.co.uk/",
           "ms": 556,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "The Toby Henderson Trust | Autism charity in the North East",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.ttht.co.uk/",
+          "ms": 790,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -240278,7 +240280,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -240347,21 +240349,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-30",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.think18.org.uk/",
-          "ms": 2174,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-31",
           "reachable": true,
@@ -240546,6 +240533,21 @@
           "httpStatus": 200,
           "finalUrl": "https://www.think18.org.uk/",
           "ms": 1388,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.think18.org.uk/",
+          "ms": 2055,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -243140,7 +243142,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -243209,21 +243211,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://underthestars.org.uk/",
-          "ms": 13196,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Under The Stars | Inclusive Arts Charity in Sheffield",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": false,
@@ -243408,6 +243395,21 @@
           "httpStatus": 200,
           "finalUrl": "https://underthestars.org.uk/",
           "ms": 7008,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Under The Stars | Inclusive Arts Charity in Sheffield",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://underthestars.org.uk/",
+          "ms": 2872,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -243995,7 +243997,7 @@
         "Website down on 7 of the last 7 checks"
       ],
       "since": "2026-10-25",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 83,
       "signals": [
@@ -244064,19 +244066,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 20052,
-          "error": "Timeout",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -244239,6 +244228,19 @@
           "httpStatus": null,
           "finalUrl": null,
           "ms": 20025,
+          "error": "Timeout",
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": null,
+          "finalUrl": null,
+          "ms": 20041,
           "error": "Timeout",
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -245107,7 +245109,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -245126,7 +245128,7 @@
           "weight": 15,
           "strength": "weak",
           "level": "amber",
-          "detail": "Website down on 2 of the last 7 checks",
+          "detail": "Website down on 1 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -245176,21 +245178,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-01",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://viascotland.org.uk/",
-          "ms": 4393,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Values into Action Scotland- supporting people with autism and/or learning difficulties",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-02",
           "reachable": true,
@@ -245381,6 +245368,21 @@
           "parkedPhrases": [],
           "movedTo": null,
           "title": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://viascotland.org.uk/",
+          "ms": 2448,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Values into Action Scotland- supporting people with autism and/or learning difficulties",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -248027,7 +248029,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity 1072586, last accounts to 31 Oct 2025",
+          "detail": "Registered charity 1072586, last accounts to 31 Oct 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -248258,7 +248260,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-17",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -248327,21 +248329,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-29",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://westgateyouthproject.co.uk/",
-          "ms": 1655,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Westgate Youth Project - The Umbrella Club",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-30",
           "reachable": false,
@@ -248526,6 +248513,21 @@
           "httpStatus": 200,
           "finalUrl": "https://westgateyouthproject.co.uk/",
           "ms": 1632,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Westgate Youth Project - The Umbrella Club",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://westgateyouthproject.co.uk/",
+          "ms": 1352,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -249119,7 +249121,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-15",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -249188,19 +249190,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 178,
-          "error": "Network",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -249387,6 +249376,21 @@
           "httpStatus": 200,
           "finalUrl": "https://starfish-swimming.org.uk/",
           "ms": 1297,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Starfish Swimming Club | Windsor and Maidehead",
+          "etag": null,
+          "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://starfish-swimming.org.uk/",
+          "ms": 1466,
           "error": null,
           "robotsBlocked": false,
           "closedPhrases": [],
@@ -250550,9 +250554,9 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
-      "score": 86,
+      "score": 78,
       "signals": [
         {
           "key": "address",
@@ -250568,8 +250572,8 @@
           "label": "Website answers",
           "weight": 15,
           "strength": "weak",
-          "level": "green",
-          "detail": "Website answered at every check",
+          "level": "amber",
+          "detail": "Website down on 1 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -250604,7 +250608,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -250619,21 +250623,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 403,
-          "finalUrl": "https://www.clairspmpadhd.org/",
-          "ms": 308,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -250828,6 +250817,21 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": 522,
+          "finalUrl": "https://www.clairspmpadhd.org/",
+          "ms": 19494,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -250835,7 +250839,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -250904,21 +250908,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 403,
-          "finalUrl": "https://www.northdale.org.uk/",
-          "ms": 284,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -251113,6 +251102,21 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 403,
+          "finalUrl": "https://www.northdale.org.uk/",
+          "ms": 92,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -251120,7 +251124,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -251189,21 +251193,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.thera.co.uk/",
-          "ms": 304,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Thera Trust | Lead and live great lives",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -251398,6 +251387,21 @@
           "title": "Thera Trust | Lead and live great lives",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.thera.co.uk/",
+          "ms": 228,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Thera Trust | Lead and live great lives",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -251405,7 +251409,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -251474,21 +251478,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://cnwda.uk/",
-          "ms": 148,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Cheshire North Wales &amp; Wiral Dyslexia Association &#8211; Cheshire and North Wales Dyslexia Association",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -251683,6 +251672,21 @@
           "title": "Cheshire North Wales &amp; Wiral Dyslexia Association &#8211; Cheshire and North Wales Dyslexia Association",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://cnwda.uk/",
+          "ms": 401,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Cheshire North Wales &amp; Wiral Dyslexia Association &#8211; Cheshire and North Wales Dyslexia Association",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -251690,7 +251694,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -251759,21 +251763,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://downsyndrome.digital/",
-          "ms": 835,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Down Syndrome Digital | Practical support, learning and belonging",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -251968,6 +251957,21 @@
           "title": "Down Syndrome Digital | Practical learning for every child",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://downsyndrome.digital/",
+          "ms": 547,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Down Syndrome Digital | Practical learning for every child",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -251975,7 +251979,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -252044,21 +252048,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.ealingdyslexia.org/",
-          "ms": 1263,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home | Ealingdyslexia",
-          "etag": "W/\"3b589135382de5f3b9cf3f23f9301cf8\"",
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -252258,6 +252247,22 @@
           "etag": "W/\"322724072e95a7f6362e48c97b78c12b\"",
           "lastModified": null,
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://www.ealingdyslexia.org/",
+          "ms": 369,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home | Ealingdyslexia",
+          "etag": "W/\"322724072e95a7f6362e48c97b78c12b\"",
+          "lastModified": null,
+          "notModified": true
         }
       ]
     },
@@ -252265,7 +252270,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -252334,21 +252339,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://headwayblackcountry.org/",
-          "ms": 3625,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Headway Black Country",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -252543,6 +252533,21 @@
           "title": "Headway Black Country",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://headwayblackcountry.org/",
+          "ms": 3980,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Headway Black Country",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -252550,7 +252555,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -252619,21 +252624,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 403,
-          "finalUrl": "https://headwaysuffolkandnorfolk.org.uk/",
-          "ms": 380,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -252828,6 +252818,21 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 403,
+          "finalUrl": "https://headwaysuffolkandnorfolk.org.uk/",
+          "ms": 83,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -252835,7 +252840,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 92,
       "signals": [
@@ -252904,19 +252909,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": null,
-          "finalUrl": null,
-          "ms": 20064,
-          "error": "Timeout",
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -253107,6 +253099,21 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.roots2branches.co.uk/",
+          "ms": 403,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -253114,7 +253121,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -253183,22 +253190,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://glosdyslexia.org/",
-          "ms": 844,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Gloucestershire Dyslexia Association &#8211; Welcome to Gloucestershire Dyslexia Association",
-          "etag": "\"170-1792726946;br\"",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -253396,6 +253387,21 @@
           "title": "Gloucestershire Dyslexia Association &#8211; Welcome to Gloucestershire Dyslexia Association",
           "etag": "\"2084-1795233192;br\"",
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://glosdyslexia.org/",
+          "ms": 845,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Gloucestershire Dyslexia Association &#8211; Welcome to Gloucestershire Dyslexia Association",
+          "etag": "\"399-1795493994;br\"",
+          "lastModified": null
         }
       ]
     },
@@ -253403,7 +253409,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -253472,22 +253478,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 304,
-          "finalUrl": "https://www.kentautistictrust.org/",
-          "ms": 879,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "The Kent Autisic Trust",
-          "etag": "W/\"89dddc5d69729ede9cb218ae9c603621\"",
-          "lastModified": null,
-          "notModified": true
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -253683,6 +253673,21 @@
           "etag": "W/\"28bdbd72417024deed5d8af7454ba8dd\"",
           "lastModified": null,
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.kentautistictrust.org/",
+          "ms": 269,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "The Kent Autisic Trust",
+          "etag": "W/\"4bbf2d57eeeed4860ce3dad828658612\"",
+          "lastModified": null
         }
       ]
     },
@@ -253690,7 +253695,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -253759,21 +253764,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://artinmotion.org.uk/",
-          "ms": 96,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "AIM | Art in Motion",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -253968,6 +253958,21 @@
           "title": "AIM | Art in Motion",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://artinmotion.org.uk/",
+          "ms": 371,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "AIM | Art in Motion",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -253975,7 +253980,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -254044,21 +254049,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://harpendenmencap.com/",
-          "ms": 1343,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Harpenden Mencap is a registered charity that provides care and support to adults with learning disabilities in Harpenden.",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -254253,6 +254243,21 @@
           "title": "Harpenden Mencap is a registered charity that provides care and support to adults with learning disabilities in Harpenden.",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://harpendenmencap.com/",
+          "ms": 955,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Harpenden Mencap is a registered charity that provides care and support to adults with learning disabilities in Harpenden.",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -254260,7 +254265,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -254329,21 +254334,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://lancashiretaag.co.uk/",
-          "ms": 1614,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Lancashire TAAG &#8211; Teenage ASD &amp; ADHD Group, Chorley",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -254538,6 +254528,21 @@
           "title": "Lancashire TAAG &#8211; Teenage ASD &amp; ADHD Group, Chorley",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://lancashiretaag.co.uk/",
+          "ms": 1303,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Lancashire TAAG &#8211; Teenage ASD &amp; ADHD Group, Chorley",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -254545,7 +254550,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -254614,21 +254619,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://lewishammencaporguk.wordpress.com/",
-          "ms": 96,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Bromley and Lewisham Mencap &#8211; Bromley and Lewisham Mencap",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -254823,6 +254813,21 @@
           "title": "Bromley and Lewisham Mencap &#8211; Bromley and Lewisham Mencap",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://lewishammencaporguk.wordpress.com/",
+          "ms": 395,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Bromley and Lewisham Mencap &#8211; Bromley and Lewisham Mencap",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -254830,7 +254835,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -254899,21 +254904,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://medwaypuzzles.wordpress.com/",
-          "ms": 49,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Medway Puzzles &#8211; An Autistic Charity connecting families together across Kent and Medway",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -255108,6 +255098,21 @@
           "title": "Medway Puzzles &#8211; An Autistic Charity connecting families together across Kent and Medway",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://medwaypuzzles.wordpress.com/",
+          "ms": 334,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Medway Puzzles &#8211; An Autistic Charity connecting families together across Kent and Medway",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -255115,7 +255120,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -255184,21 +255189,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://nobiglight.my.canva.site/",
-          "ms": 126,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "No Big Light Charity",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -255393,6 +255383,21 @@
           "title": "No Big Light Charity",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://nobiglight.my.canva.site/",
+          "ms": 161,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "No Big Light Charity",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -255400,7 +255405,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-19",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -255469,21 +255474,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": false,
-          "httpStatus": 404,
-          "finalUrl": "https://www.nspf.co.uk/",
-          "ms": 1789,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-11",
           "reachable": false,
@@ -255678,6 +255668,21 @@
           "title": "People First Voices and Choices | Working across Bristol, North Somerset &amp; South Glos",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://nspf.co.uk/",
+          "ms": 2089,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "People First Voices and Choices | Working across Bristol, North Somerset &amp; South Glos",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -255685,7 +255690,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -255754,21 +255759,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://potentialkids.org.uk/",
-          "ms": 368,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Welcome - Potential Kids",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -255963,6 +255953,21 @@
           "title": "Welcome - Potential Kids",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://potentialkids.org.uk/",
+          "ms": 1021,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Welcome - Potential Kids",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -255970,7 +255975,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -256039,21 +256044,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://raisingtwenty1.org.uk/",
-          "ms": 523,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home - Raising Twenty1",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -256248,6 +256238,21 @@
           "title": "Home - Raising Twenty1",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://raisingtwenty1.org.uk/",
+          "ms": 11466,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Raising Twenty1",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -256255,7 +256260,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -256324,21 +256329,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-31",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.rowanhumberstone.org.uk/",
-          "ms": 9792,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Rowan - Creating art, Improving lives",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-01",
           "reachable": true,
@@ -256531,6 +256521,21 @@
           "title": "Rowan - Creating art, Improving lives",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.rowanhumberstone.org.uk/",
+          "ms": 10898,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Rowan - Creating art, Improving lives",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -256538,7 +256543,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -256607,21 +256612,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://sunflowergroup.uk/",
-          "ms": 2383,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Sunflower Group |",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -256816,6 +256806,21 @@
           "title": "Sunflower Group |",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://sunflowergroup.uk/",
+          "ms": 2738,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Sunflower Group |",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -256823,7 +256828,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -256892,21 +256897,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://thehidden.charity/",
-          "ms": 628,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Official website of neurodiversity, ADHD & autism charity The Hidden",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -257101,6 +257091,21 @@
           "title": "Official website of neurodiversity, ADHD & autism charity The Hidden",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://thehidden.charity/",
+          "ms": 875,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Official website of neurodiversity, ADHD & autism charity The Hidden",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -257108,7 +257113,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -257177,21 +257182,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.upondowns.com/",
-          "ms": 2659,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Front Page - Up On Downs",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -257386,6 +257376,21 @@
           "title": "Front Page - Up On Downs",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.upondowns.com/",
+          "ms": 2495,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Front Page - Up On Downs",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -257393,7 +257398,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -257462,21 +257467,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.wave-for-change.org.uk/",
-          "ms": 252,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Home | Wave For Change",
-          "etag": "W/\"4b51259e59bebb226763aee4dfacc351\"",
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -257677,6 +257667,22 @@
           "etag": "W/\"7775b8092b8c2593d3ae3964be3377f8\"",
           "lastModified": null,
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://www.wave-for-change.org.uk/",
+          "ms": 241,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home | Wave For Change",
+          "etag": "W/\"7775b8092b8c2593d3ae3964be3377f8\"",
+          "lastModified": null,
+          "notModified": true
         }
       ]
     },
@@ -257684,7 +257690,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -257753,21 +257759,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://wirralmencap.org.uk/",
-          "ms": 4176,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Wirral Mencap | Community. Opportunity. Equality.",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -257962,6 +257953,21 @@
           "title": "Wirral Mencap | Community. Opportunity. Equality.",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://wirralmencap.org.uk/",
+          "ms": 2104,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Wirral Mencap | Community. Opportunity. Equality.",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -257969,7 +257975,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-18",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -258038,21 +258044,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-10-25",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://kisharonlangdon.org.uk/",
-          "ms": 1319,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Kisharon Langdon — Jewish Charity Supporting People with Learning Disabilities",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-10-26",
           "reachable": true,
@@ -258247,16 +258238,32 @@
           "title": "Kisharon Langdon — Jewish Charity Supporting People with Learning Disabilities",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://kisharonlangdon.org.uk/",
+          "ms": 1567,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Kisharon Langdon — Jewish Charity Supporting People with Learning Disabilities",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
     "stepping-stone-2to": {
       "status": "Likely closed",
       "reasons": [
-        "Proof: Charity 1168937 is dissolved (register of 23 Nov 2026)"
+        "Website now goes to google.com",
+        "Proof: Charity 1168937 is dissolved (register of 24 Nov 2026)"
       ],
       "since": "2026-11-13",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": true,
       "score": 0,
       "signals": [
@@ -258301,8 +258308,8 @@
           "label": "Same address",
           "weight": 5,
           "strength": "weak",
-          "level": "green",
-          "detail": "Website stays at its own address",
+          "level": "red",
+          "detail": "Website now goes to google.com",
           "kind": "evidence"
         },
         {
@@ -258311,7 +258318,7 @@
           "weight": 25,
           "level": "red",
           "provesClosure": true,
-          "detail": "Charity 1168937 is dissolved (register of 23 Nov 2026)",
+          "detail": "Charity 1168937 is dissolved (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -258326,21 +258333,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-09",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://steppingstone2to.blogspot.com/",
-          "ms": 473,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Stepping Stone2to",
-          "etag": "W/\"534ea6403e550c623700d3a76114acc2bc8baf241d531aa4ad0c08e2ab67583a\"",
-          "lastModified": "Sat, 31 Aug 2024 13:21:35 GMT"
-        },
         {
           "date": "2026-11-11",
           "reachable": true,
@@ -258538,6 +258530,21 @@
           "title": "Stepping Stone2to",
           "etag": "W/\"534ea6403e550c623700d3a76114acc2bc8baf241d531aa4ad0c08e2ab67583a\"",
           "lastModified": "Sat, 31 Aug 2024 13:21:35 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 429,
+          "finalUrl": "https://www.google.com/sorry/index?continue=https://steppingstone2to.blogspot.com/&q=EgQs5JNxGLGdl9gGIi1MlZog9j4W7b71NjG-WugfJyE4JDB1NbQbfvTLXKkziuRDiDp2nMdxtsV5fdgyAnJSWgFDYJzimZqMjYOglwE",
+          "ms": 572,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": "google.com",
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -258894,7 +258901,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -259410,7 +259417,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-29",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -259479,21 +259486,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-01",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://magicmomentsforautistickids.com/",
-          "ms": 4327,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "Magic Moments for Autistic Kids",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-02",
           "reachable": true,
@@ -259688,6 +259680,21 @@
           "title": "Magic Moments for Autistic Kids",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://magicmomentsforautistickids.com/",
+          "ms": 6034,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Magic Moments for Autistic Kids",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -259695,7 +259702,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-10-29",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -259764,21 +259771,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-01",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://www.allspectrum.org.uk/",
-          "ms": 356,
-          "error": null,
-          "robotsBlocked": true,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": null,
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-02",
           "reachable": true,
@@ -259973,16 +259965,33 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.allspectrum.org.uk/",
+          "ms": 576,
+          "error": null,
+          "robotsBlocked": true,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
     "staffordshire-adults-autistic-society": {
-      "status": "Looks active",
-      "reasons": [],
-      "since": "2026-11-05",
-      "lastChecked": "2026-11-23",
+      "status": "Needs a check",
+      "reasons": [
+        "Website down on 3 of the last 7 checks"
+      ],
+      "since": "2026-11-24",
+      "lastChecked": "2026-11-24",
       "proven": false,
-      "score": 92,
+      "score": 83,
       "signals": [
         {
           "key": "address",
@@ -259998,8 +260007,8 @@
           "label": "Website answers",
           "weight": 15,
           "strength": "weak",
-          "level": "amber",
-          "detail": "Website down on 2 of the last 7 checks",
+          "level": "red",
+          "detail": "Website down on 3 of the last 7 checks",
           "kind": "evidence"
         },
         {
@@ -260049,21 +260058,6 @@
         }
       ],
       "history": [
-        {
-          "date": "2026-11-07",
-          "reachable": true,
-          "httpStatus": 200,
-          "finalUrl": "https://staffs-autism.co.uk/",
-          "ms": 2087,
-          "error": null,
-          "robotsBlocked": false,
-          "closedPhrases": [],
-          "parkedPhrases": [],
-          "movedTo": null,
-          "title": "My Blog &#8211; My WordPress Blog",
-          "etag": null,
-          "lastModified": null
-        },
         {
           "date": "2026-11-08",
           "reachable": true,
@@ -260258,6 +260252,21 @@
           "title": null,
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": false,
+          "httpStatus": 503,
+          "finalUrl": "https://staffs-autism.co.uk/",
+          "ms": 1284,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": null,
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -260265,7 +260274,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-12",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -260513,6 +260522,21 @@
           "title": "www.khhclub.org.uk Professional Resource Directory",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.khhclub.org.uk/",
+          "ms": 585,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "www.khhclub.org.uk Professional Resource Directory",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -260520,7 +260544,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-16",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -260574,7 +260598,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "green",
-          "detail": "Registered charity 1204656, last accounts to 31 Jan 2025",
+          "detail": "Registered charity 1204656, last accounts to 31 Jan 2026",
           "kind": "proof",
           "strength": "strong"
         },
@@ -260715,6 +260739,22 @@
           "etag": "\"6a35c53948831ed6c6d4a2c7a96bd43f\"",
           "lastModified": "Mon, 16 Nov 2026 13:01:50 GMT",
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://alimrancharity.org.uk/",
+          "ms": 1239,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "HopeHarbor: Support for Autism and Cancer | HopeHarbor",
+          "etag": "\"6a35c53948831ed6c6d4a2c7a96bd43f\"",
+          "lastModified": "Mon, 16 Nov 2026 13:01:50 GMT",
+          "notModified": true
         }
       ]
     },
@@ -260722,7 +260762,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-16",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -260910,6 +260950,21 @@
           "title": "Home - Wigan Stars",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://wiganstars.uk/",
+          "ms": 2668,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home - Wigan Stars",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -260917,7 +260972,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -261090,6 +261145,21 @@
           "title": "Headway Lincolnshire",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.headway-lincolnshire.org.uk/",
+          "ms": 437,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Headway Lincolnshire",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -261097,7 +261167,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-17",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -261270,6 +261340,21 @@
           "title": "Home",
           "etag": null,
           "lastModified": null
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://sites.google.com/view/cadows/home",
+          "ms": 352,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Home",
+          "etag": null,
+          "lastModified": null
         }
       ]
     },
@@ -261277,7 +261362,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-19",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 86,
       "signals": [
@@ -261331,7 +261416,7 @@
           "label": "Charity register",
           "weight": 25,
           "level": "amber",
-          "detail": "Accounts overdue: \"Submission Double Default\" (register of 23 Nov 2026)",
+          "detail": "Accounts overdue: \"Submission Double Default\" (register of 24 Nov 2026)",
           "kind": "proof",
           "strength": "strong"
         },
@@ -261424,6 +261509,22 @@
           "etag": "\"6afef85a-1a0bd\"",
           "lastModified": "Thu, 19 Nov 2026 13:23:38 GMT",
           "notModified": true
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 304,
+          "finalUrl": "https://justdyslexic.org.uk/",
+          "ms": 1099,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Non GamStop Online Casinos UK - New UK Casinos Not on GamStop 2026",
+          "etag": "\"6afef85a-1a0bd\"",
+          "lastModified": "Thu, 19 Nov 2026 13:23:38 GMT",
+          "notModified": true
         }
       ]
     },
@@ -261431,7 +261532,7 @@
       "status": "Looks active",
       "reasons": [],
       "since": "2026-11-23",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-24",
       "proven": false,
       "score": 100,
       "signals": [
@@ -261514,6 +261615,111 @@
           "title": "boltonsmileyfaces.org.uk for sale | Spaceship.com",
           "etag": "W/\"6200c37b20a746bd19ceaf1a3dd0c9b1\"",
           "lastModified": "Sun, 22 Nov 2026 21:54:12 GMT"
+        },
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://boltonsmileyfaces.org.uk/",
+          "ms": 321,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Domain Unavailable For Purchase",
+          "etag": "W/\"b299b0ff08196cabc74362562842fe22\"",
+          "lastModified": "Tue, 24 Nov 2026 15:53:38 GMT"
+        }
+      ]
+    },
+    "community-autism-project-cap": {
+      "status": "Looks active",
+      "reasons": [],
+      "since": "2026-11-24",
+      "lastChecked": "2026-11-24",
+      "proven": false,
+      "score": 100,
+      "signals": [
+        {
+          "key": "address",
+          "label": "Web address",
+          "weight": 15,
+          "strength": "strong",
+          "level": "green",
+          "detail": "Web address exists",
+          "kind": "evidence"
+        },
+        {
+          "key": "answers",
+          "label": "Website answers",
+          "weight": 15,
+          "strength": "weak",
+          "level": "green",
+          "detail": "Website answered at every check",
+          "kind": "evidence"
+        },
+        {
+          "key": "notice",
+          "label": "No closing notice",
+          "weight": 15,
+          "strength": "strong",
+          "level": "green",
+          "detail": "No closing wording on the homepage",
+          "kind": "evidence"
+        },
+        {
+          "key": "parked",
+          "label": "Not for sale",
+          "weight": 15,
+          "strength": "strong",
+          "level": "green",
+          "detail": "Domain is not parked or for sale",
+          "kind": "evidence"
+        },
+        {
+          "key": "moved",
+          "label": "Same address",
+          "weight": 5,
+          "strength": "weak",
+          "level": "green",
+          "detail": "Website stays at its own address",
+          "kind": "evidence"
+        },
+        {
+          "key": "register",
+          "label": "Charity register",
+          "weight": 25,
+          "level": "green",
+          "detail": "Registered charity 1182903, last accounts to 31 Mar 2025",
+          "kind": "proof",
+          "strength": "strong"
+        },
+        {
+          "key": "confirmed",
+          "label": "Confirmed by them",
+          "weight": 25,
+          "level": "none",
+          "detail": "Not asked yet (verification e-mails come in phase 4)",
+          "kind": "proof",
+          "strength": "strong"
+        }
+      ],
+      "history": [
+        {
+          "date": "2026-11-24",
+          "reachable": true,
+          "httpStatus": 200,
+          "finalUrl": "https://www.mwcap.co.uk/",
+          "ms": 385,
+          "error": null,
+          "robotsBlocked": false,
+          "closedPhrases": [],
+          "parkedPhrases": [],
+          "movedTo": null,
+          "title": "Community Autism Project (CAP) | Market Weighton & East Yorkshire (1182903)",
+          "etag": null,
+          "lastModified": null
         }
       ]
     }
@@ -262560,7 +262766,7 @@
       "disallowAll": false
     },
     "www.scld.org.uk": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.runforautismhand.com": {
@@ -263068,7 +263274,7 @@
       "disallowAll": false
     },
     "www.angelssupportgroup.org.uk": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.booksbeyondwords.co.uk": {
@@ -263348,7 +263554,7 @@
       "disallowAll": false
     },
     "www.localmencapdoncaster.co.uk": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.downrightworthy.co.uk": {
@@ -263516,7 +263722,7 @@
       "disallowAll": false
     },
     "www.grampianopportunities.org.uk": {
-      "date": "2026-11-16",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.grapevineessex.org.uk": {
@@ -264840,7 +265046,7 @@
       "disallowAll": false
     },
     "www.pendragon-ct.org": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "thewatersidecentre.co.uk": {
@@ -265108,7 +265314,7 @@
       "disallowAll": false
     },
     "rowanhumberstone.org.uk": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "kisharonlangdon.org.uk": {
@@ -265132,11 +265338,11 @@
       "disallowAll": false
     },
     "www.allspectrum.org.uk": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": true
     },
     "www.magicmomentsforautistickids.com": {
-      "date": "2026-11-15",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "staffs-autism.co.uk": {
@@ -265148,11 +265354,11 @@
       "disallowAll": false
     },
     "www.alimrancharity.org.uk": {
-      "date": "2026-11-17",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.wiganstars.uk": {
-      "date": "2026-11-17",
+      "date": "2026-11-24",
       "disallowAll": false
     },
     "www.headway-lincolnshire.org.uk": {
@@ -265165,6 +265371,10 @@
     },
     "www.justdyslexic.org.uk": {
       "date": "2026-11-20",
+      "disallowAll": false
+    },
+    "boltonsmileyfaces.org.uk": {
+      "date": "2026-11-24",
       "disallowAll": false
     }
   }
