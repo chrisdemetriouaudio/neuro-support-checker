@@ -1,20 +1,19 @@
 ---
 title: Candidates
-updated: 2026-11-24
+updated: 2026-11-25
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 467 possible organisations on 24 Nov 2026, from the charity registers of all 4 nations.
+> **Found:** 467 possible organisations on 25 Nov 2026, from the charity registers of all 4 nations.
 > **Named for a condition:** 135. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 24 Nov 2026
+## 🆕 New on 25 Nov 2026
 
-**Added to the directory automatically (1):** named for a condition, with a working website.
-- ✅ COMMUNITY AUTISM PROJECT (CAP) (England): autism
+- Nothing was added automatically.
 
 - No new ones still settling.
 
