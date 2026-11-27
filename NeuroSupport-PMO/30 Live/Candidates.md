@@ -1,19 +1,21 @@
 ---
 title: Candidates
-updated: 2026-11-26
+updated: 2026-11-27
 ---
 
 # 🔎 Candidates
 
 > [!info] At a glance
-> **Found:** 467 possible organisations on 26 Nov 2026, from the charity registers of all 4 nations.
-> **Named for a condition:** 135. The rest mention one in their description.
+> **Found:** 465 possible organisations on 27 Nov 2026, from the charity registers of all 4 nations.
+> **Named for a condition:** 134. The rest mention one in their description.
 > **Decided automatically every morning:** clear ones added (website checked), misfits turned away, anything unclear after 7 days parked. Nobody has to review them.
 > This page rewrites itself each time discovery runs (every morning).
 
-## 🆕 New on 26 Nov 2026
+## 🆕 New on 27 Nov 2026
 
-- Nothing was added automatically.
+**Added to the directory automatically (2):** named for a condition, with a working website.
+- ✅ HEADWAY NORTHUMBERLAND (England): brain injury
+- ✅ NEUROBETTER (England, Wales): neurodiversity
 
 - No new ones still settling.
 
@@ -27,14 +29,14 @@ updated: 2026-11-26
 | Tourette syndrome | 0 | 0 | 0 | 2 |
 | Williams syndrome | 0 | 0 | 0 | 1 |
 | autism | 98 | 23 | 19 | 11 |
-| brain injury | 14 | 1 | 7 | 1 |
+| brain injury | 13 | 1 | 7 | 1 |
 | dyscalculia | 2 | 1 | 0 | 0 |
 | dyslexia | 22 | 5 | 2 | 0 |
 | dyspraxia (DCD) | 1 | 1 | 0 | 0 |
 | learning disability | 207 | 30 | 51 | 2 |
-| neurodiversity | 10 | 7 | 6 | 3 |
+| neurodiversity | 9 | 6 | 6 | 3 |
 | sensory processing | 1 | 0 | 0 | 0 |
-| **All** | **348** | **66** | **82** | **24** |
+| **All** | **346** | **65** | **82** | **24** |
 
 An organisation can count under more than one condition and more than one nation.
 

@@ -1,5 +1,5 @@
 {
-  "extractDate": "2026-11-26",
+  "extractDate": "2026-11-27",
   "entries": {
     "205244": {
       "number": "205244",
@@ -1471,7 +1471,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -7015,7 +7015,7 @@
       "status": "Registered",
       "removedOn": null,
       "reporting": "Submission Received",
-      "lastAccounts": "2025-03-31",
+      "lastAccounts": "2026-03-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -8070,8 +8070,8 @@
       "name": "POETRY IN WOOD CIO",
       "status": "Registered",
       "removedOn": null,
-      "reporting": "Submission Received Late",
-      "lastAccounts": "2025-01-31",
+      "reporting": "Submission Received",
+      "lastAccounts": "2026-01-31",
       "insolvent": false,
       "inAdministration": false,
       "dissolved": false,
@@ -8424,6 +8424,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "https://www.ndssg.org.uk/"
+    },
+    "1198408": {
+      "number": "1198408",
+      "name": "HEADWAY NORTHUMBERLAND",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2025-12-31",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "www.headwaynorthumberland.co.uk"
     },
     "1198481": {
       "number": "1198481",
@@ -9180,6 +9192,18 @@
       "inAdministration": false,
       "dissolved": false,
       "web": "www.headwaycp.org.uk"
+    },
+    "1210347": {
+      "number": "1210347",
+      "name": "NEUROBETTER",
+      "status": "Registered",
+      "removedOn": null,
+      "reporting": "Submission Received",
+      "lastAccounts": "2025-09-30",
+      "insolvent": false,
+      "inAdministration": false,
+      "dissolved": false,
+      "web": "https://neurobetter.org"
     },
     "1210506": {
       "number": "1210506",

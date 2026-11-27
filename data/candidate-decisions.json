@@ -9418,5 +9418,23 @@
     "by": "automatic triage",
     "date": "2026-11-24",
     "reason": "named for autism; the condition is what its description is about; offers support, advice, groups or activities"
+  },
+  "oscr:SC034454": {
+    "decision": "rejected",
+    "by": "automatic triage",
+    "date": "2026-11-27",
+    "reason": "offers support, advice, groups or activities; gives grants rather than support"
+  },
+  "ccew:1198408": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-27",
+    "reason": "named for brain injury; offers support, advice, groups or activities"
+  },
+  "ccew:1210347": {
+    "decision": "added",
+    "by": "automatic triage",
+    "date": "2026-11-27",
+    "reason": "a known organisation for one of our conditions (for example Mencap, Headway, a Gateway club); the condition is what its description is about; offers support, advice, groups or activities"
   }
 }
